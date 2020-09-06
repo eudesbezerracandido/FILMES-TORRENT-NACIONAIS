@@ -3,7 +3,7 @@ FREEDDONS FILMES ANTIGOS
 
 <item>
 <title>[B]COLEÇÃO DO SUPERMAN [COLOR yellow]ANOS 80[/COLOR]  [COLOR lime][/COLOR]  DUBLADO [/B]</title> 
-<link>https://SUPERMAN O FILME/RCFServer1/ondemand/SPRMN1.mp4?attachment=true</link>
+<link> SUPERMAN O FILME</title><title>https://playplus.azureedge.net/RCFServer1/ondemand/SPRMN1.mp4?attachment=true</link>
 <link>https://playplus.azureedge.net/RCFServer1/ondemand/SPRMN2.mp4?attachment=true</link>
 <link>https://playplus.azureedge.net/RCFServer1/ondemand/SPRMN3.mp4?attachment=true</link>
 <thumbnail>https://i.ytimg.com/vi/V5TJsc6-3SY/maxresdefault.jpg</thumbnail>
