@@ -16,7 +16,7 @@ FREEDDONS FILMES ANTIGOS
 </item>
 
 <item>
-<title>[B] CÃO DE BRIGA [COLOR yellow][/COLOR] - [COLOR lime][/COLOR]  DUBLADO [/B]</title>
+<title>[B] CÃO DE BRIGA [COLOR yellow][/COLOR]  [COLOR lime]FULL HD[/COLOR]  DUBLADO [/B]</title>
 <link>https://playplus.azureedge.net/RCFServer5/ondemand/CAODBRGA.mp4?attachment=true</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71E68x13pPL._AC_SX679_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
