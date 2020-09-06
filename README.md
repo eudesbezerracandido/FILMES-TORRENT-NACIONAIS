@@ -25,7 +25,7 @@ FREEDDONS FILMES ANTIGOS
 
 <item>
 <title>[B]COLEÇÃO DO SUPERMAN [COLOR yellow] ANOS 80 [/COLOR]  [COLOR lime][/COLOR]  DUBLADO [/B]</title> 
-<link>plugin://plugin.video.gdrive?mode=streamURLhttps://playplus.azureedge.net/RCFServer1/ondemand/SPRMN1.mp4?attachment=true$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] -SUPERMAN O FILME</link>
+<link>plugin://plugin.video.gdrive?mode=streamhttps://playplus.azureedge.net/RCFServer1/ondemand/SPRMN1.mp4?attachment=true$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] -SUPERMAN O FILME</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
