@@ -15,4 +15,13 @@ FREEDDONS FILMES ANTIGOS
 <genre></genre>
 </item>
 
+<item>
+<title>[B] CÃO DE BRIGA [COLOR yellow][/COLOR] - [COLOR lime][/COLOR]  DUBLADO [/B]</title>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/CAODBRGA.mp4?attachment=true</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71E68x13pPL._AC_SX679_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desde que Bart tirou Danny da rua, com a idade de 4 anos, sempre o tratou como um cão, treinando-o literalmente para o ataque. Danny é hoje sua grande arma, capaz de se atirar sobre qualquer um com uma simples ordem. Isolado do mundo, Danny não tem outra escolha a não ser aceitar essa existência de animal. Mas as coisas mudam quando ele conhece Sam, um cego que ganha a vida como afinador de pianos. Sam faz Danny descobrir um lado humano que até então lhe era desconhecido.</info>
+<genre></genre>
+</item>
+
 
