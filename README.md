@@ -24,6 +24,15 @@ FREEDDONS FILMES ANTIGOS
 <genre></genre>
 </item>
 
+<item>
+<title>[B]CORINGA[COLOR yellow][/COLOR] [COLOR lime]FULL HD[/COLOR]  DUBLADO [/B]</title>
+<link>https://playplus.azureedge.net/RCFServer3/ondemand/CRNGA.mp4?attachment=true</link>
+<thumbnail>https://www.pausaparanerdices.com/wp-content/uploads/2019/10/723667.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.</info>
+<genre></genre>
+</item>
+
 
 
  
