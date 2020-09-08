@@ -33,13 +33,6 @@ FREEDDONS FILMES ANTIGOS
 <genre></genre>
 </item>
 
-<item>
-<title>[COLOR silver][B] MULAN [/COLOR][/B] [COLOR yellow][B]  TORRENT  [/COLOR][/B]<title>
-<link>plugin://plugin.video.elementum/play?uri=urn:btih:6ded4e2e9d1458617c192d88b08b8fda8d9ed1b9&dn</link>
-<thumbnail> imagem </thumbnail>
-<fanart> ico </fanart>
-<info> Sinopse </info>
-<item> </item>
 
 
 
