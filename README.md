@@ -75,7 +75,7 @@ FREEDDONS FILMES ANTIGOS
 
 <item>
 <title>[COLOR silver][B]ATÉ QUE A SORTE  NÓS SEPARE [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F571E86E28FC319B2C468DA0476A76BB88713987&dn=Ate%20que%20a%20sorte%20nos%20separe%20%282012%29%20BluRay%201080p%20Dublado%20D4V1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannoun</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6973b925ed1b670ba5208a39a117a547e8695297&dn=At%26eacute%3B+que+a+Sorte+nos+Separe+Dublado+BDRip+XviD&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>https://s2.glbimg.com/4acUu0k98phGhEmGVODPQAWbwtvSU3DcYFCJ7V-HkEhIoz-HdGixxa_8qOZvMp3w/s.glbimg.com/og/rg/f/original/2012/09/25/convite_atequeasortenossepare.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Tino é um pai de família que tem sua rotina transformada ao ganhar na loteria. Em dez anos, o fanfarrão e sua mulher Jane gastam todo o dinheiro com uma vida de ostentação. Ao descobrir que está falido, ele é obrigado a aceitar a ajuda de Amauri, seu vizinho, um consultor financeiro nada divertido e extremamente econômico. Quando Jane engravida do terceiro filho, Tino faz de tudo para esconder da esposa que estão na lona, pois a recomendação médica é que a grávida evite fortes emoções.</info>
