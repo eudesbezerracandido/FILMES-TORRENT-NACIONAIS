@@ -83,7 +83,7 @@ FREEDDONS FILMES ANTIGOS
 
 <item>
 <title>[COLOR silver][B]ATÉ QUE A SORTE NÓS SEPARE  2 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db0814e58d3a671b2c82f76c894257cd75354d8e&dn=Ate.Que.a.Sorte.nos.Separe.2.2014.720p-WOLVERDONFILMES.COM&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.publicbt.com:80&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.ccc.de:80&tr=udp://open.demonii.com:1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c797dffad89d71b63a6c12762354d6f94daf5a4d&dn=At%26eacute%3B+que+a+Sorte+nos+Separe+2+%282013%29+BDRip+Bluray+720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>https://www.cinepop.com.br/cartazes/atequeasortenossepare2_1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Tino e Jane são salvos da falência pela inesperada herança do Tio Olavinho. O problema é que o testamento traz um pedido incomum: o ricaço deseja que suas cinzas sejam lançadas no Grand Canyon. Aproveitando a viagem, o casal resolve dar uma esticadinha em Las Vegas. Entretanto, Tino se empolga com a jogatina de um cassino e perde todo o dinheiro da herança na mesa de pôquer. Para piorar, ainda fica devendo US$ 10 milhões a um capanga da máfia mexicana, que deseja receber o dinheiro a todo custo.</info>
