@@ -153,6 +153,14 @@ FREEDDONS FILMES ANTIGOS
 <info>Baseado na maior operação de combate à corrupção do Brasil, o filme narra a história do delegado Ivan (Antonio Calloni) e sua equipe composta por Beatriz (Flávia Alessandra), Júlio (Bruce Gomlevsky) e Ítalo (Rainer Cadete). Através de muita investigação, eles desvendaram o esquema de lavagem de dinheiro e proprinas envolvendo executivos da Petrobrás, partidos políticos, parlamentares e empreiteiras.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] Ó PAI Ó [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:decbcd08f91f0b82ee03226bb0af6942fa0a7958&dn=COMOEUBAIXO.COM..1080P.MKV.-NACIONAL-..%c3%93%20Pa%c3%ad%2c%20%c3%93.DVDRip.By.CdmsLife</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5c/%C3%93_Pa%C3%AD%2C_%C3%93.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um animado cortiço do centro histórico do Pelourinho, em Salvador, tudo é compartilhado pelos seus moradores, especialmente a paixão pelo Carnaval e a antipatia pela síndica do prédio, Dona Joana (Luciana Souza). Todos tentam encontrar um lugar nos últimos dias do Carnaval, seja trabalhando ou brincando. Incomodada com a farra dos condôminos, Dona Joana decide puni-los, cortando o fornecimento de água do prédio. A falta d’água faz com que o aspirante a cantor Roque (Lázaro Ramos); o motorista de táxi Reginaldo (Érico Brás) e sua esposa Maria (Valdinéia Soriano); o travesti Yolanda (Lyu Arisson), amante de Reginaldo; a jogadora de búzios Raimunda (Cássia Vale); o homossexual dono de bar Neuzão (Tânia Tôko) e sua sensual sobrinha Rosa (Emanuelle Araújo); Carmen (Auristela Sá), que realiza abortos clandestinos e ao mesmo tempo mantém um pequeno orfanato em seu apartamento; Psilene (Dira Paes), irmã de Carmen que está fazendo uma visita após um período na Europa; e a Baiana (Rejane Maia), de quem todos são fregueses; se confrontem e se solidarizem perante o problema.</info>
+</item>
+
 
 
 
