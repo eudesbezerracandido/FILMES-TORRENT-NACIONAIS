@@ -169,6 +169,22 @@ FREEDDONS FILMES ANTIGOS
 <info> Febre do rato é uma expressão típica do Nordeste, que significa estar fora de controle. Metáfora apenas aparente para Zizo, personagem principal de Febre do Rato, o filme. Poeta por vocação, ele dedica a vida à publicação de seu jornaleco, cujo nome é o mesmo do título. O objetivo é expor suas ideias, repletas de propostas anárquicas que valorizam o livre arbítrio das pessoas, sem se prender às amarras morais impostas pela vida civilizada. Quem não conhece o mundo de Zizo pode imaginar que ele esteja com a febre do rato, ou seja, fora de controle. Só que a verdade é justamente o oposto.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CIDADE DOS HONENS  NACIONAL [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:675091BC25FDC5778C7FCC3082B0D68D51D0642E&&dn=C.H.Cap.01.720p.HDTV-x264.COMANDOTORRENTS&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://i.imgur.com/k2ZX7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A inseparável dupla de amigos Laranjinha (Darlan Cunha) e Acerola (Douglas Silva) está de volta na minissérie de quatro episódios 'Cidade dos Homens', com estreia em janeiro de 2017. Mas afinal, por onde andou esta dupla? Doze anos depois da última temporada, eles cresceram, estão adultos e têm filhos. Na nova história de Cidade dos Homens, passado e presente se entrelaçam. Você que acompanhou Laranjinha e Acerola crescerem e enfrentarem os desafios de morar na comunidade, vai poder revê-los em três episódios marcantes do seriado original, que preparam para uma nova aventura inédita vivida nos dias de hoje. No 4º e último episódio, a amizade entre Laranjinha e Acerola será posta em cheque. A minissérie, escrita por George Moura e Daniel Adjafre, com direção de Pedro Morelli, conta a luta de Laranjinha para salvar o filho Davi (Luan Pessoa), após descobrir que ele tem uma grave doença. Sempre com a ajuda do fiel amigo Acerola, que agora é pai de Clayton (Carlos Eduardo Jay), a série que foi indicado ao Internacional Emmy Award em 2005, vai mostrar que o tempo passou, mas os problemas na comunidade continuam bem parecidos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LISBELLA E O PRISSIONEIRO NACIONAL [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9308D6F4B3932635787009FF1278EB6E0F33E982&dn=Lisbela%20e%20o%20Prisioneiro%202003%20%28720p%29%20WWW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.lapumiafilmes.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://cdn.pensador.com/img/authors/li/sb/lisbela-e-o-prisioneiro-1-l.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lisbela (Débora Falabella) é uma moça que adora ir ao cinema e vive sonhando com os galãs de Hollywood dos filmes que assiste. Leléu (Selton Mello) é um malandro conquistador, que em meio a uma de suas muitas aventuras chega à cidade de Lisbela. Após se conhecerem eles logo se apaixonam, mas há um problema: Lisbela está noiva. Em meio às dúvidas e aos problemas familiares que a nova paixão desperta, há ainda a presença de um matador (Marco Nanini) que está atrás de Leléu, devido a ele ter se envolvido com sua esposa (Virginia Cavendish).</info>
+</item>
+
 
 
 
