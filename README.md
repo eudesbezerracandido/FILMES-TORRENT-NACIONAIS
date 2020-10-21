@@ -161,6 +161,14 @@ FREEDDONS FILMES ANTIGOS
 <info>Em um animado cortiço do centro histórico do Pelourinho, em Salvador, tudo é compartilhado pelos seus moradores, especialmente a paixão pelo Carnaval e a antipatia pela síndica do prédio, Dona Joana (Luciana Souza). Todos tentam encontrar um lugar nos últimos dias do Carnaval, seja trabalhando ou brincando. Incomodada com a farra dos condôminos, Dona Joana decide puni-los, cortando o fornecimento de água do prédio. A falta d’água faz com que o aspirante a cantor Roque (Lázaro Ramos); o motorista de táxi Reginaldo (Érico Brás) e sua esposa Maria (Valdinéia Soriano); o travesti Yolanda (Lyu Arisson), amante de Reginaldo; a jogadora de búzios Raimunda (Cássia Vale); o homossexual dono de bar Neuzão (Tânia Tôko) e sua sensual sobrinha Rosa (Emanuelle Araújo); Carmen (Auristela Sá), que realiza abortos clandestinos e ao mesmo tempo mantém um pequeno orfanato em seu apartamento; Psilene (Dira Paes), irmã de Carmen que está fazendo uma visita após um período na Europa; e a Baiana (Rejane Maia), de quem todos são fregueses; se confrontem e se solidarizem perante o problema.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FEBRE DO RATO NACIONAL [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:356AAVNNWJWSPTNL5R42LB34OHYZ4DMD&dn=A%20Febre%20do%20Rato%20(2011)%20Claudio%20Assis.DVDRip.CM.MKO.lucmor</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/be/Febre_do_rato.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Febre do rato é uma expressão típica do Nordeste, que significa estar fora de controle. Metáfora apenas aparente para Zizo, personagem principal de Febre do Rato, o filme. Poeta por vocação, ele dedica a vida à publicação de seu jornaleco, cujo nome é o mesmo do título. O objetivo é expor suas ideias, repletas de propostas anárquicas que valorizam o livre arbítrio das pessoas, sem se prender às amarras morais impostas pela vida civilizada. Quem não conhece o mundo de Zizo pode imaginar que ele esteja com a febre do rato, ou seja, fora de controle. Só que a verdade é justamente o oposto.</info>
+</item>
+
 
 
 
