@@ -183,7 +183,7 @@ FREEDDONS FILMES ANTIGOS
 <thumbnail>https://cdn.pensador.com/img/authors/li/sb/lisbela-e-o-prisioneiro-1-l.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Lisbela (Débora Falabella) é uma moça que adora ir ao cinema e vive sonhando com os galãs de Hollywood dos filmes que assiste. Leléu (Selton Mello) é um malandro conquistador, que em meio a uma de suas muitas aventuras chega à cidade de Lisbela. Após se conhecerem eles logo se apaixonam, mas há um problema: Lisbela está noiva. Em meio às dúvidas e aos problemas familiares que a nova paixão desperta, há ainda a presença de um matador (Marco Nanini) que está atrás de Leléu, devido a ele ter se envolvido com sua esposa (Virginia Cavendish).</info>
-</item>
+</item> 
 
 
 
