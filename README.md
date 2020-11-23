@@ -201,6 +201,14 @@ FREEDDONS FILMES ANTIGOS
 <info>Após grave acidente em uma gruta interditada, rapaz se torna o único sobrevivente. No local, foram encontrados quatro corpos. A perícia indica que esse mesmo jovem assassinou brutalmente seus amigos, esposa e a guia de turismo. Em estado grave, ele nega os assassinatos e recusa-se a colaborar com a polícia. Certo de que sua esposa foi possuída por uma força demoníaca, pede ajuda a uma madre.</info>
 </item>
 
+<item>
+<title> ZALU </title>
+<utube>bQO301qqSt8</utube>
+<thumbnail></thumbnail>
+<fanart>https://i.ytimg.com/vi/cG5mXSTj8PI/hqdefault.jpg<fanart>
+<info>Zalu ( Adriana Martins) é uma escrava negra que surge nas  terras de Cortês/PE  no ano de 1817 e passa a ser propriedade do Barão Castro de Vicência (Hamilton Torres). Nesse mesmo período o Barão acredita que foi traido pelo Bartolomeu Monteiro (Joel Viana), um ex-funcionário que vive com sua família na região, tal conflito acaba com uma morte. Anos mais tarde quando tudo parecia está em paz entre as duas famílias, Zalu se envolve com os Monteiros e a briga com os Vicências retorna, dessa vez com objetivo de vingança.  No meio desse Conflito Zalu sonha com a sua liberdade e contará com a ajuda de seu amigo escravo Bastião (Neto Nunes).</info>
+</item>
+
 
 
 
