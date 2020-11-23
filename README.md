@@ -202,14 +202,11 @@ FREEDDONS FILMES ANTIGOS
 </item>
 
 <item>
-<title>[COLOR silver][B] ZALU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title> ZALU </title>
 <utube>bQO301qqSt8</utube>
-<thumbnail>https://i.ytimg.com/vi/cG5mXSTj8PI/hqdefault.jpg</thumbnail>
+<thumbnail>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg<fanart>
-<info>Zalu ( Adriana Martins) é uma escrava negra que surge nas  terras de Cortês/PE  no ano de 1817 e passa a ser propriedade do Barão Castro de Vicência (Hamilton Torres). Nesse mesmo período o Barão acredita que foi traido pelo Bartolomeu Monteiro (Joel Viana), um ex-funcionário que vive com sua família na região, tal conflito acaba com uma morte. Anos mais tarde quando tudo parecia está em paz entre as duas famílias, Zalu se envolve com os Monteiros e a briga com os Vicências retorna, dessa vez com objetivo de vingança.  No meio desse Conflito Zalu sonha com a sua liberdade e contará com a ajuda de seu amigo escravo Bastião (Neto Nunes).</info>
 </item>
- 
-
 
 
 
