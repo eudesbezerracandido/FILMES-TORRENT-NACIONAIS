@@ -204,7 +204,7 @@ FREEDDONS FILMES ANTIGOS
 <item>
 <title> ZALU </title>
 <utube>bQO301qqSt8</utube>
-<thumbnail>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/cG5mXSTj8PI/hqdefault.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg<fanart>
 </item>
 
