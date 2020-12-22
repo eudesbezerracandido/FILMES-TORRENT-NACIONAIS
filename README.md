@@ -241,6 +241,14 @@ FREEDDONS FILMES ANTIGOS
 <info> Ele sabe tudo sobre amadurecer na era digital e vai contar as lições que aprendeu - segure o riso, se puder.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BRUNA  SURFISTINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dbf7c78bd8fa09e0bd2dcfc4f2ce81f6b437008&dn=Bruna+Surfistinha+%282011%29+BDRip+Bluray+720p+-+FB&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/69/BrunaSurfistinha.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Raquel (Deborah Secco) era uma jovem da classe média paulistana, que estudava num colégio tradicional da cidade. Um dia ela tomou uma decisão surpreendente: saiu de casa e resolveu virar garota de programa. Com o codinome de Bruna Surfistinha, Raquel viveu diversas experiências "profissionais" e ganhou destaque nacional ao contar suas aventuras sexuais e afetivas num blog, que depois acabou virando um livro e tornou-se um best seller.</info>
+</item>
+
 
 
 
