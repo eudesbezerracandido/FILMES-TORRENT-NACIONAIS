@@ -208,6 +208,22 @@ FREEDDONS FILMES ANTIGOS
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg<fanart>
 <info>Zalu ( Adriana Martins) é uma escrava negra que surge nas  terras de Cortês/PE  no ano de 1817 e passa a ser propriedade do Barão Castro de Vicência (Hamilton Torres). Nesse mesmo período o Barão acredita que foi traido pelo Bartolomeu Monteiro (Joel Viana), um ex-funcionário que vive com sua família na região, tal conflito acaba com uma morte. Anos mais tarde quando tudo parecia está em paz entre as duas famílias, Zalu se envolve com os Monteiros e a briga com os Vicências retorna, dessa vez com objetivo de vingança.  No meio desse Conflito Zalu sonha com a sua liberdade e contará com a ajuda de seu amigo escravo Bastião (Neto Nunes).</info>
 </item> 
+  
+<item>
+<title>[COLOR silver][B] OS MELHORES DO MUNDO -  HERMANOTEU NA TERRA DE GODAH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c643260baa33a47eddb1bdd994b77dcc999a7eb6&dn=Melhores+do+Mundo+-+Hermanoteu+na+Terra+de+Godah.avi&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_23030-MLB20241026271_022015-O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando o homem enfrentava a ira de um deus menos complacente, Hermanoteu, irmão de Micalatéia e típico hebreu do ano zero – camarada, bom pastor e obediente –, recebe uma missão divina: guiar Seu povo? Terra de Godah. Num cenário que representa um imenso deserto, o ator Ricardo Pipo interpreta Hermanoteu que encontra desde Cleópatra até mesmo o Filho do Todo Poderoso. Os atores Adriana Nunes, Adriano Siri, Jovane Nunes, Victor Leal e Welder Rodrigues revezam-se nos outros papéis, fazendo com que a jornada do protagonista seja uma turnê de humor por caricatos personagens épicos. Um espetáculo reverenciado pelo público, onde a Cia. orgulhosamente recebe o humorista Chico Anysio, interpretando Deus (com textos em off).Seguindo a linha de sátiras do grupo, "Hermanoteu na Terra de Godah" visita a diversidade fantástica do Livro dos livros. Entre as densas páginas do Antigo Testamento, encontramos nosso pacato protagonista, perambulando por domínios romanos, entre pestes, bárbaros e deuses pagãos. Uma comédia que, apesar de épica, faz inúmeras citações da atualidade e aproxima o passado do presente pela comicidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEU NOME NÃO É JOHNNY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b1d85fd1ad5ef7a51adfbe91a46a7dfdc12a71e&dn=My.Name.Aint.Johnny.2008.PORTUGUESE.720p.WEB-DL.AAC2.0.H264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2840&tr=udp%3A%2F%2F9.rarbg.to%3A2890</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/f1/Meu_Nome_n%C3%A3o_%C3%89_Johnny.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>João Guilherme Estrella (Selton Mello) nasceu em uma família de classe média do Rio de Janeiro. Filho de um diretor do extinto Banco Nacional, ele cresceu no Jardim Botânico e frequentou os melhores colégios, tendo amigos entre as famílias mais influentes da cidade. Carismático e popular, João viveu intensamente os anos 80 e 90. Neste período ele conheceu o universo das drogas, mesmo sem jamais pisar numa favela. Logo tornou-se o maior vendedor de drogas do Rio de Janeiro, sendo preso em 1995. A partir de então passou a frenquentar o cotidiano do sistema carcerário brasileiro.</info>
+</item>
 
 
 
