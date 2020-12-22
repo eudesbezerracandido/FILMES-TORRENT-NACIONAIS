@@ -233,6 +233,14 @@ FREEDDONS FILMES ANTIGOS
 <info>Decidido a mudar seu destino, Gonzaga sai de casa jovem e segue para cidade grande em busca de novos horizontes e para apagar uma tristeza amorosa. Lá, ele conhece uma bela mulher, Odaléia (Nanda Costa), por quem se encanta. Após o nascimento do filho e complicações de saúde da esposa, ele decide voltar para a estrada para garantir os estudos e um futuro melhor para o herdeiro. Para isso, deixa o pequeno aos cuidados de amigos no Rio de Janeiro e sai pelo Brasil afora. Só não imaginava que essa distância entre eles faria crescer uma complicada relação, potencializada pelas personalidades fortes de ambos. Baseada em conversas realizadas entre pai e filho, essa é a história do cantor e sanfoneiro Luiz Gonzaga, também conhecido como O Rei do Baião ou Gonzagão, e de seu filho, popularmente chamado de Gonzaguinha.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] WHINDERSON  NUNES - ADULTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED57D9C13F1AFD2D797EC84F7DAF40C3C9007546&dn=%5bWWW.BLUDV.TV%5d%20Whindersson%20Nunes%20-%20Adulto%202019%20%28720p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://media.fstatic.com/-Zgo6mxNj18_vrTNG4mqfH5HZV4=/290x478/smart/media/movies/covers/2019/08/bfd2d11f7b6a020b86f7b3aa0d6f970a59ac8b7d_s2_n2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ele sabe tudo sobre amadurecer na era digital e vai contar as lições que aprendeu - segure o riso, se puder.</info>
+</item>
+
 
 
 
