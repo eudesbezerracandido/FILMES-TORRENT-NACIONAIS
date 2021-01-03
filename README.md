@@ -263,7 +263,7 @@ FREEDDONS FILMES ANTIGOS
 <thumbnail>https://www.themoviedb.org/movie/286256-tim-maia?language=pt-BR</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A vida e a arte de Sebastião Rodrigues Maia, mais conhecido como Tim Maia, músico de criatividade avassaladora e temperamento explosivo que transformou a música brasileira com doses irresistíveis de funk e soul. O filme recria sua trajetória desde a adolescência na Tijuca, bairro da Zona Norte do Rio de Janeiro, onde começou a carreira ao lado de Roberto Carlos e Erasmo Carlos, passando por sua temporada em Nova York, onde tomou contato com a música e o movimento negro, até sua explosão, com dezenas de “hits” que o tornaram um dos artistas mais populares e queridos do Brasil.</info>
-</item>
+</item> 
 
 
 
