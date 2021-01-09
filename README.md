@@ -252,7 +252,7 @@ FREEDDONS FILMES ANTIGOS
 <item>
 <title>[COLOR silver][B] TUDO BEM NO NATAL QUE VEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4eeaaf42bfca1e8784ec7b216cd31046b0ea70a&dn=COMOEUBAIXO.COM..WEB-DL.MKV.-NACIONAL-..COMANDO.TO%20-%20Tudo.Bem.No.Natal.Que.Vem.2020.1080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
-<thumbnail>themoviedb.org/movie/755339-tudo-bem-no-natal-que-vem?language=pt-BR</thumbnail>
+<thumbnail>https://br.web.img2.acsta.net/pictures/20/10/09/19/10/1081565.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Jorge passou a vida inteira dividindo seu aniversário com a data comemorativa mais importante do ano. Ele cresceu fazendo de tudo para evitar o natal, mas não é tão fácil fugir da festa quando se tem dois filhos pequenos e uma esposa disposta a fazer um almoço comemorativo para a família inteira. Ao tentar consertar a instalação elétrica da casa para acender a decoração natalina, Jorge toma um choque fortíssimo e apaga. Ele então acorda no dia de natal do ano seguinte, vivendo o inferno da comemoração em família outra vez. Ele dorme, acorda, e é natal de novo. E de novo. E de novo.</info>
 </item>
@@ -260,7 +260,7 @@ FREEDDONS FILMES ANTIGOS
 <item>
 <title>[COLOR silver][B]  TIM  MAIA - NÃO HÁ NADA IGUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89e21cc09044851c22e5e188db0b86e3037174ae&dn=COMOEUBAIXO.COM..WEB-DL.1080P.MKV.-DUBLADO-DUAL-AUDIO-..</link>
-<thumbnail>themoviedb.org/t/p/original/kVE2wZU3Xd4yQDKSOwIrLhGGoB3.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/06/Tim_Maia_%28filme%29.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A vida e a arte de Sebastião Rodrigues Maia, mais conhecido como Tim Maia, músico de criatividade avassaladora e temperamento explosivo que transformou a música brasileira com doses irresistíveis de funk e soul. O filme recria sua trajetória desde a adolescência na Tijuca, bairro da Zona Norte do Rio de Janeiro, onde começou a carreira ao lado de Roberto Carlos e Erasmo Carlos, passando por sua temporada em Nova York, onde tomou contato com a música e o movimento negro, até sua explosão, com dezenas de “hits” que o tornaram um dos artistas mais populares e queridos do Brasil.</info>
 </item> 
