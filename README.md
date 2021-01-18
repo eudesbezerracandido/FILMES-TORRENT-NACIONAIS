@@ -265,6 +265,15 @@ FREEDDONS FILMES ANTIGOS
 <info>A vida e a arte de Sebastião Rodrigues Maia, mais conhecido como Tim Maia, músico de criatividade avassaladora e temperamento explosivo que transformou a música brasileira com doses irresistíveis de funk e soul. O filme recria sua trajetória desde a adolescência na Tijuca, bairro da Zona Norte do Rio de Janeiro, onde começou a carreira ao lado de Roberto Carlos e Erasmo Carlos, passando por sua temporada em Nova York, onde tomou contato com a música e o movimento negro, até sua explosão, com dezenas de “hits” que o tornaram um dos artistas mais populares e queridos do Brasil.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] PAI EM DOBRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bac56c3fc6d2892dd3012bd6aaedbc93861cd292</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/y9k5MjbLsCftyrQ4ec6bPmRtORf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de passar a vida toda numa comunidade hippie, uma garota de 18 anos aproveita a chance de sair para o mundo real e decide procurar o pai.</info>
+</item>
+
+
 
 
 
