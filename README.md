@@ -273,6 +273,14 @@ FREEDDONS FILMES ANTIGOS
 <info> Depois de passar a vida toda numa comunidade hippie, uma garota de 18 anos aproveita a chance de sair para o mundo real e decide procurar o pai.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] PORQUE TEMOS ESPERANÇA [/COLOR][/B][COLOR yellow]   FULL HD   [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WgZ-uvc8_FQ&ab</link>
+<thumbnail>https://vertentesdocinema.com/wp-content/uploads/2020/05/Porque-temos-esperanca-2.jpeg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg<fanart>
+<info>A jornada de Marli, uma mulher pernambucana que, inconformada em ignorar situações que parecem irremediáveis, percorre presídios de Recife tentando que pais detentos reconheçam seus filhos.</info>
+</item> 
+
 
 
 
