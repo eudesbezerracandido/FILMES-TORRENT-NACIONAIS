@@ -280,6 +280,15 @@ FREEDDONS FILMES ANTIGOS
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg<fanart>
 <info>A jornada de Marli, uma mulher pernambucana que, inconformada em ignorar situações que parecem irremediáveis, percorre presídios de Recife tentando que pais detentos reconheçam seus filhos.</info>
 </item> 
+  
+<item>
+<title>[COLOR silver][B]  CABRAS DA PESTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L4LPJ7YK2D7NQQ3ECXNKFVHJD7WDTMUX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bpW9lrpPGV9FeIk1AjxnhUY6g58.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Bruceuilis (Filho) é um policial do interior do Ceará que, para resgatar Celestina, uma cabra considerada patrimônio da cidade, viaja até São Paulo. Lá encontra Trindade (Nachtergaele), um escrivão da polícia que resolve se aventurar em campo, mesmo não sendo sua especialidade. O longa tem o estilo conhecido como buddy cop, mas com um toque à brasileira.</info>
+</item>
+
 
 
 
