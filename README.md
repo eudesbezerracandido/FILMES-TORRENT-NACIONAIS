@@ -275,7 +275,7 @@ FREEDDONS FILMES ANTIGOS
 
 <item>
 <title>[COLOR silver][B] ZALU [/COLOR][/B][COLOR yellow][B] FULL  HD [/COLOR][/B]</title>
-<link>rchive.org/download/zalu-completo-filme-de-fernando-marques/ZALU%20%20%20COMPLETO%20-%20FILME%20%20%20%20De%20%20Fernando%20Marqu%C3%AAs.mp4</link>
+<link>https://archive.org/download/zalu-completo-filme-de-fernando-marques/ZALU%20%20%20COMPLETO%20-%20FILME%20%20%20%20De%20%20Fernando%20Marqu%C3%AAs.mp4</link>
 <thumbnail>https://ia601503.us.archive.org/29/items/21742938-489659334720978-5831918866379725663-n/21742938_489659334720978_5831918866379725663_n.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Zalu ( ADRIANA MARTINS) é uma escrava negra que surge nas  terras de Cortês no ano de 1817 e passa a ser propriedade do Barão Castro de Vicência (HAMILTON TORRES). Nesse mesmo período o Barão acredita que foi traido pelo Bartolomeu Monteiro (JOEL VIANA), um ex-funcionário que vive com sua família na região, tal conflito acaba com uma morte. Anos mais tarde quando tudo parecia está em paz entre as duas famílias, Zalu se envolve com os Monteiros e a briga com os Vicências retorna, dessa vez com objetivo de vingança.  No meio desse Conflito Zalu sonha com a sua liberdade e contará com a ajuda de seu amigo escravo Bastião (NETO NUNES). ROTEIRO E DIREÇÃO: FERNANDO MARQUES.</info>
