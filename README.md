@@ -202,14 +202,6 @@ FREEDDONS FILMES ANTIGOS
 </item>
 
 <item>
-<title>[COLOR silver][B]  ZALU  [/COLOR][/B][COLOR yellow]   FULL HD   [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=bQO301qqSt8</link>
-<thumbnail>https://i.ytimg.com/vi/cG5mXSTj8PI/hqdefault.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg<fanart>
-<info>Zalu ( Adriana Martins) é uma escrava negra que surge nas  terras de Cortês/PE  no ano de 1817 e passa a ser propriedade do Barão Castro de Vicência (Hamilton Torres). Nesse mesmo período o Barão acredita que foi traido pelo Bartolomeu Monteiro (Joel Viana), um ex-funcionário que vive com sua família na região, tal conflito acaba com uma morte. Anos mais tarde quando tudo parecia está em paz entre as duas famílias, Zalu se envolve com os Monteiros e a briga com os Vicências retorna, dessa vez com objetivo de vingança.  No meio desse Conflito Zalu sonha com a sua liberdade e contará com a ajuda de seu amigo escravo Bastião (Neto Nunes).</info>
-</item> 
-  
-<item>
 <title>[COLOR silver][B] OS MELHORES DO MUNDO -  HERMANOTEU NA TERRA DE GODAH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c643260baa33a47eddb1bdd994b77dcc999a7eb6&dn=Melhores+do+Mundo+-+Hermanoteu+na+Terra+de+Godah.avi&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_23030-MLB20241026271_022015-O.jpg</thumbnail>
@@ -272,15 +264,7 @@ FREEDDONS FILMES ANTIGOS
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Depois de passar a vida toda numa comunidade hippie, uma garota de 18 anos aproveita a chance de sair para o mundo real e decide procurar o pai.</info>
 </item>
-
-<item>
-<title>[COLOR silver][B] PORQUE TEMOS ESPERANÇA [/COLOR][/B][COLOR yellow]   FULL HD   [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=WgZ-uvc8_FQ</link>
-<thumbnail>https://vertentesdocinema.com/wp-content/uploads/2020/05/Porque-temos-esperanca-2.jpeg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg<fanart>
-<info>A jornada de Marli, uma mulher pernambucana que, inconformada em ignorar situações que parecem irremediáveis, percorre presídios de Recife tentando que pais detentos reconheçam seus filhos.</info>
-</item> 
-  
+ 
 <item>
 <title>[COLOR silver][B]  CABRAS DA PESTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L4LPJ7YK2D7NQQ3ECXNKFVHJD7WDTMUX</link>
