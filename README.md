@@ -289,6 +289,15 @@ FREEDDONS FILMES ANTIGOS
 <info>a jornada de uma mulher pernambucana e a sua rejeição para tudo aquilo que parece não ter jeito. Vivendo profundos dilemas na vida pessoal e na tentativa de reconstruir outras vidas, ela inicia uma trajetória pelos presídios de Recife, na intenção que pais reconheçam seus filhos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] OS QUATRO PARALAMAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f6212f4c1baa1641a67a85da9710aa576447967</link>
+<thumbnail>https://torrentoon.org/imagens/os-quatro-paralamas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dirigido por Roberto Berliner, que acompanha a banda desde o início no Circo Voador, em 1983, este filme sobre música e amizade fala da relação dos três que sobem aopalco (Herbert, Bi e João), mas também de um quarto elemento, que aparece pouco namídia, mas tem papel fundamental: José Fortes, o empresário. Em um papo na sala da casa de Bi Ribeiro, os quatro lembram a carreira, falam sobre sua amizade inabalável e tocam músicas que fazem parte dessa trajetória de quase 40 anos.</info>
+</item>
+
+
 
 
 
