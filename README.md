@@ -297,6 +297,16 @@ FREEDDONS FILMES ANTIGOS
 <info> Dirigido por Roberto Berliner, que acompanha a banda desde o início no Circo Voador, em 1983, este filme sobre música e amizade fala da relação dos três que sobem aopalco (Herbert, Bi e João), mas também de um quarto elemento, que aparece pouco namídia, mas tem papel fundamental: José Fortes, o empresário. Em um papo na sala da casa de Bi Ribeiro, os quatro lembram a carreira, falam sobre sua amizade inabalável e tocam músicas que fazem parte dessa trajetória de quase 40 anos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AMOR ESTRANHO AMOR COM XUXA MENEGUEL[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A908F9A898A4462C20ADB2CADB0D72BB5E6EB080</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qXwsEYqB2nFIEaCwhYkPbfv9nZ9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>São Paulo, 1937. Hugo (Marcelo Ribeiro) é um jovem que veio de Santa Catarina, sendo trazido por sua avó para devolvê-lo à sua mãe, Anna (Vera Fisher), que é amante de Osmar Passos (Tarcísio Meira), o político mais influente do estado. Ela habita uma luxuosa mansão com várias outras jovens, todas comandadas por Laura (Íris Bruzzi) e a serviço das manobras políticas de Osmar, que utiliza a casa para festas e orgias a fim de impressionar e agradar possíveis aliados políticos. A chegada do menino coincide com o dia de uma grande festa de despedida que será dada a Benício Mattos (Mauro Mendonça), o político mais influente e poderoso de outro estado. Tal fato deixa Laura bem contrariada, pois não quer que nada saia de . Assim Hugo é acomodado num quarto no sótão, mas se perturba no casarão, onde as circunstâncias fazem com que ele esteja sempre rodeado de jovens, que começam a provocá-lo e até a desejá-lo. Tamara (Xuxa)é a jovem que mais se interessa por Hugo.</info>
+</item>
+
+
+
 
 
 
