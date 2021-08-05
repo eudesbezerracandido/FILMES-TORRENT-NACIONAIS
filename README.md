@@ -1,6 +1,16 @@
 # FILMES-ANTIGOS
 FREEDDONS FILMES ANTIGOS
 
+
+
+<item>
+<title>[COLOR silver][B] COMO HACKEAR SEU CHEFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:118b5d027c5618d29762335f658313efe967c697</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sXIIGA2VeK1FAhd9c547kcBIryq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sem querer, Victor (Victor Lamoglia) envia um e-mail comprometedor a seu chefe mala. Com a ajuda da crush do financeiro e seu amigo sem noção, ele tem poucas horas para salvar seu emprego e lidar com um hacker picareta, um site pornô e um mascote chamado Sorrisinho.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TROPA  DE  ELITE - MISSÃO DADA É MISSÃO COMPRIDA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:174e148c270f92d9439c67960111891b1eaa3418</link>
