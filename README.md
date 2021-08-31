@@ -1,7 +1,13 @@
 # FILMES-ANTIGOS
 FREEDDONS FILMES ANTIGOS
 
-
+<item>
+<title>[COLOR silver][B] AMOR ESTRANHO AMOR ( com XUXA MENEGUEL ) archive [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/amor-estranho-amor_202108/AMOR%20ESTRANHO%20AMOR.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qXwsEYqB2nFIEaCwhYkPbfv9nZ9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Hugo, um homem de meia idade, ainda guarda na memória a infância realmente singular. Ainda um garoto, sai do Sul do país com a avó e desembarca em São Paulo, onde é deixado na frente de um palacete. Ali mora e trabalha Ana, uma prostituta e amante do governador de São Paulo. O garoto irá conviver daí em diante nesse ambiente com outras garotas de programa como Tamara - uma ninfeta atrevida. Depois de ter leiloada a sua falsa virgindade entre os frequentadores mais ricos, ela seduz Hugo - então garoto com doze anos - e o molesta.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] COMO HACKEAR SEU CHEFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
