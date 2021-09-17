@@ -1,6 +1,16 @@
 # FILMES-ANTIGOS
 FREEDDONS FILMES ANTIGOS
 
+
+
+<item>
+<title>[COLOR silver][B] ÁRIDO- COM SELTON MELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/a-rido-com-selton-melo/%C3%81RIDO-COM%20SELTON%20MELO.mp4</link>
+<thumbnail>https://archive.org/download/arido_20movie_202_400x400/arido_20movie_202_400x400.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Repórter de telejornal vai ao interior do Nordeste para enterro do pai. Na viagem, conhece cineasta que faz filme sobre a água do Nordeste e com quem se envolve. Quando chega à sua cidade natal, descobre que deverá vingar a morte do pai.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AMOR ESTRANHO AMOR ( com XUXA MENEGUEL ) archive [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/amor-estranho-amor_202108/AMOR%20ESTRANHO%20AMOR.mp4</link>
