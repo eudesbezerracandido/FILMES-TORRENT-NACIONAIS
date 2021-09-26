@@ -1,7 +1,15 @@
 # FILMES-ANTIGOS
-FREEDDONS FILMES ANTIGOS
 
 
+
+
+<item>
+<title>[COLOR silver][B] DOIS + DOIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a0435155fe782dbc8687d69acf948eee31e5e96</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/OqYcA2dOx0NF8QvW58pXejTGtR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Diogo e Emília estão juntos há 16 anos, têm uma filha adolescente, e passam por uma fase entediante. Mas tudo vira de cabeça pra baixo quando eles descobrem que os melhores amigos, Ricardo e Bettina, têm um casamento aberto. Mais do que isso, são adeptos da prática de troca de casais, vivem super seguros com a escolha e tentam convencê-los de que é possível ser muito feliz levando esse estilo de vida, digamos, mais liberal. A notícia cai como uma bomba. Depois de reagir mal à ideia, Emília se anima e convence Diogo a pelo menos ir a uma festa com a "turma" de Ricardo e Betina. É aí que começa uma série de acontecimentos que vai abalar a vidinha mais ou menos do casal. Será que eles vão deixar o ciúmes de lado e acabar aderindo à prática?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ÁRIDO- COM SELTON MELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
