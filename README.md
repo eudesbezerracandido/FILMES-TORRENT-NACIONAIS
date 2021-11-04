@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MARIGHELLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c2c4156c93446737ca99f0ce266533a07144c87</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oqHLyxKGhlGe1S2S9X8hragmNQl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Marighella é um filme brasileiro de 2019, dirigido por Wagner Moura, baseado na vida de Carlos Marighella. O filme, adaptado da biografia “Marighella – O Guerrilheiro que Incendiou o Mundo”, de Mário Magalhães, é o primeiro de Moura como diretor e conta com Seu Jorge como protagonista, Adriana Esteves, Bruno Gagliasso e Humberto Carrão, entre outros.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOIS + DOIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a0435155fe782dbc8687d69acf948eee31e5e96</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/OqYcA2dOx0NF8QvW58pXejTGtR.jpg</thumbnail>
