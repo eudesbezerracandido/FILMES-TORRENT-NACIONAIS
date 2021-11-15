@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] 7 PRISIONEIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6684c1ccc81655a0a1217e672a658d960788817c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uk9GedoTYlnKnbruXPArU09F8oT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Aos 18 anos, Mateus (Christian Malheiros) aceita um emprego em São Paulo para dar uma vida melhor à família no interior. Ele chega à cidade com outros adolescentes, sem saber o que o espera: trabalho análogo à escravidão em um ferro-velho, com os documentos confiscados pelo terrível Luca (Rodrigo Santoro), que os ameaça caso tentem fugir. Esperto, Mateus descobre que até o chefe recebe ordens de alguém. Mas no que ele vai ter que se transformar para sair dessa? Mostrando o lado terrível da crise econômica atual, “7 Prisioneiros” é um suspense que se transforma em estudo aprofundado sobre poder, solidariedade e traição. Produzido pelos cineastas indicados ao Oscar Fernando Meirelles (Cidade de Deus) e Ramin Bahrani (O Tigre Branco), este é o segundo filme do diretor e roteirista Alexandre Moratto (Sócrates), que se confirma como uma das novas vozes mais importantes do cinema nacional.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MARIGHELLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c2c4156c93446737ca99f0ce266533a07144c87</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oqHLyxKGhlGe1S2S9X8hragmNQl.jpg</thumbnail>
