@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MINHA FAMA DE MAU ( ROBERTO CARLOS & ERASMO CARLOS ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D46D69886039160E767B26FB0F752E0A6541EA7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uMx8QhEZrnHRjeDUDRAhZyUFiaY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Tijuca dos anos sessenta o jovem Erasmo Carlos alimenta uma paixão: o rock and roll. Fã de Elvis, Bill Haley e Chuck Berry, ele aprende a tocar violão enquanto vive de sonhos, bicos e pequenas delinquências. Sua fama de roqueiro atrai Roberto Carlos , e logo se tornam parceiros e amigos. Um mega sucesso chega com a Jovem Guarda, programa de televisão onde Roberto, Erasmo e Wanderlea são a atração principal. "Minha Fama de Mau" é um mergulho emocionante na música e na vida de Erasmo Carlos que, com cabeça de homem e coração de menino, se tornou o Tremendão, símbolo vivo do rock nacional.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] 7 PRISIONEIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6684c1ccc81655a0a1217e672a658d960788817c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uk9GedoTYlnKnbruXPArU09F8oT.jpg</thumbnail>
