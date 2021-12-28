@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] LUCCAS NETO - EM O HÓTEL MÁGICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:381bd8939d6197c7322ab3109bdf27ead3badb9f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wEUlxyFHZ838xnjWk1MrWeumVWw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Luccas Neto e Gi são convidados por Camila para passar as férias em um Hotel Mágico. O que não imaginam é que o Elfo Mizinho tem um plano maluco: transformá-los em ratinhos para sempre. Será que conseguirão escapar dessa armadilha felpuda?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MINHA FAMA DE MAU ( ROBERTO CARLOS & ERASMO CARLOS ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
