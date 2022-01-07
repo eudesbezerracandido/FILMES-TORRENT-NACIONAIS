@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] O ÚLTIMO JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P2RBO6T7DUL3ZOFSV3Z3SNACWD2JIVSJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xGI67Qu22wAKJQU6CqhZVB3KSmP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme relata uma história de futebol, mostrando a rivalidade entre duas cidades fictícias. As cidades de Belezura, no Brasil, e Guapa, na Argentina, marcam não só a fronteira entre os dois países como também são atravessadas por uma rivalidade lendária. No entanto, o que une – ao menos em campo – as duas regiões é a paixão pelo futebol. Com a final de um campeonato se aproximando, os cidadãos brasileiros descobrem que a fábrica que movimenta a cidade está prestes a fechar as portas. O caos então é instalado, mas uma coisa eles precisam manter em mente: a derrota não é uma opção.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] LUCCAS NETO - EM O HÓTEL MÁGICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:381bd8939d6197c7322ab3109bdf27ead3badb9f</link>
