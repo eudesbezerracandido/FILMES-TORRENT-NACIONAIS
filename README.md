@@ -1,8 +1,13 @@
 # FILMES-ANTIGOS
 
 
-
-
+<item>
+<title>[COLOR silver][B] COLEÇÃO - CHAVES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:532235878F9998D07802F14754A6742DA5AEE83F</link>
+<thumbnail>https://ia801503.us.archive.org/25/items/chaves_202201/Dvd-chaves-o-melhor-do-chaves-foi-sem-querer-querendo-D_NQ_NP_362001-MLB20248871939_022015-F.jpg</thumbnail>
+<fanart>https://ia801503.us.archive.org/25/items/chaves_202201/CHAVES.jpg</fanart>
+<info>Acompanhe o dia a dia de Chaves, um menino pobre que passa sua infância em uma pequena vila ao lado de seus amigos, Chiquinha e Kiko. Ele cria complicações para os adultos Seu Madruga, Seu Barriga, Professor Girafales, Dona Florinda e a Bruxa do 71.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O ÚLTIMO JOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
