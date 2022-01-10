@@ -1,6 +1,16 @@
 # FILMES-ANTIGOS
 
 
+
+
+<item>
+<title>[COLOR silver][B] VIRANDO A MESA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf7d3a23961dd661b1516184839f497515f1a34a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pLsChLT7tuB96kBP7LrgIVz0O8T.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Filme de ação abordando lutas clandestinas entre mulheres. Um policial chefia uma operação que visa fechar uma jogatina comandada por um mafioso. Porém, quando as circustâncias o forçam a adentrar a mesa de jogo, ele descobre um talento nato com as cartas e, conforme as partidas progridem, o plano de evacuar o local ganha adventos que incluem agiotas, sadomasorquistas e assaltantes.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] COLEÇÃO - CHAVES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:532235878F9998D07802F14754A6742DA5AEE83F</link>
