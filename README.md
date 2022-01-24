@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O SEGUNDO HOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6983ddaffdf82ea6d3a4092b4843b8c046c8e47c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Yw0YP4pbWbbGBcHmNvfCA97ZRD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um futuro próximo, onde o porte de armas é liberado no Brasil e a violência no país cresce como nunca, Miro decide proteger sua família se alistando na Legião Estrangeira, que chega ao Brasil para ajudar as forças de segurança.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JÚPTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b41a5c3e695dc05b4155a0291411601ceb2fd1f0</link>
