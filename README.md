@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] JÚPTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b41a5c3e695dc05b4155a0291411601ceb2fd1f0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xHmwrpNIKoeYNTn8ZPDSRrrGxW4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história de Júpiter, um jovem que passa por uma série de perdas e descobertas depois de ser deixado pela madrinha queo criou na casa do pai que ele não sabia que existia. Mario é um detetive particular passando por uma crise de meia idade. Quando ele descobre que tem um filho de 17 anos fruto de uma relação fora do casamento, sua vida muda drasticamente. Tentando desesperadamente encontrar algo que o ajude a se relacionar com o filho, ele descobre que o menino é um gênio do xadrex e passa a incentivar sua carreira, empolgado com a possibilidade de fazer parte de algo importante pela primeira vez na vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VIRANDO A MESA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf7d3a23961dd661b1516184839f497515f1a34a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pLsChLT7tuB96kBP7LrgIVz0O8T.jpg</thumbnail>
