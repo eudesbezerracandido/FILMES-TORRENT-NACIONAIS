@@ -1,8 +1,21 @@
 # FILMES-ANTIGOS
 
 
+<item>
+<title>[COLOR silver][B] JESUS KID [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5754829402d5719c9196166210635c2b649f3de5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rCdg8NGQDWiafb9HQfoYmXJwqMO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Eugênio é um escritor de faroestes em dificuldades. Seu personagem mais famoso, Jesus Kid, está sendo um fracasso de vendas. Ele parece ter encontrado sua salvação quando é contratado para escrever o roteiro de um filme.</info>
+</item>
 
-
+<item>
+<title>[COLOR silver][B] MADALENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:434ddaedd2ff0d259eab9581e99fb769472269ca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/68OGfivAtkZgJF0jtGfdIr6zDpw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Entre as vidas de Luziane, Cristiano e Bianca há pouca coisa em comum além do fato de viverem em uma pequena cidade cercada de plantações de soja no interior do Brasil. Embora não se conheçam, os três são afetados pelo desaparecimento de Madalena. Em regiões diferentes da cidade, cada um deles encontra seu modo de responder a essa ausência.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O SEGUNDO HOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
