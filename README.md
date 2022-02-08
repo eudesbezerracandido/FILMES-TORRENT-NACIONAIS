@@ -1,6 +1,17 @@
 # FILMES-ANTIGOS
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] EU,EMPRENSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da4d9598ca841d2aab3cefdd63a0183edf015f2d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p4SIXOGw6DTEyEbpwPrqqr5wmTE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um trabalhador informal enfrenta problemas financeiros e emocionais. Sem oportunidades decentes de trabalho, ele cria um canal no YouTube pra tentar monetizar suas pequenas histórias de fracasso, enquanto presta serviços precarizados para empresas estrangeiras. Em um diálogo com o cinema de nomes como Ken Loach, a obra dos diretores Leon Sampaio e Marcus Curvelo propõe reflexões sobre as ironias do culto ao empreendedorismo e as dores da uberização dos trabalhos e da vida, em geral.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JESUS KID [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5754829402d5719c9196166210635c2b649f3de5</link>
