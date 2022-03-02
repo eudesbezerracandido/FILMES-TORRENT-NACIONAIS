@@ -1,5 +1,16 @@
 # FILMES-ANTIGOS
 
+
+
+
+<item>
+<title>[COLOR silver][B] EDUARDO & MÔNICA HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:370DF6F2E8DC4F27E54FEC7D4F62A48640246C65</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eaCb1Rx0gCpJ6Zl60tyJZeJUu2H.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>ão para o cinema da famosa canção "Eduardo e Mônica", composta por Renato Russo, sobre um casal que não tinha nada a ver um com o outro mas acabou se apaixonando perdidamente.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] HERMANOTEU NA TERRA DE GODAH 2 EM 1 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c643260baa33a47eddb1bdd994b77dcc999a7eb6$NOME=HERMANOTEU NA TERRA DE GODAH-OS MELHORES DO MUNDO</link>
