@@ -1,7 +1,13 @@
 # FILMES-ANTIGOS
 
 
-
+<item>
+<title>[COLOR silver][B] WHINDERSON NUNES - É DE MIM MESMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7JAL3UDKEQ6NC3FMC36OXCO2PMBYM6NI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1Dk3lqCcOesF4Qr9ptHDB1zjIX1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em seu novo show, o comediante fala com profundidade sobre temas como depressão e a pandemia, e convida as pessoas a entenderem o mundo através de seus olhos. No histórico palco do Teatro Amazonas, o comediante Whindersson Nunes faz imitações e analisa diferentes culturas com sua visão única.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] EDUARDO & MÔNICA HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
