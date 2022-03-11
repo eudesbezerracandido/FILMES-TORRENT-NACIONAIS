@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TURMA DA MONICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:752e7f981e9ae707e1f9b643cbccd39e4100300e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ksQfIiWmyu9x4FbNBW5aNclVqu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mônica, Cebolinha, Magali e Cascão cometem um erro na escola. Agora, terão que encarar as suas consequências, e elas não serão poucas. Nesta nova jornada, a turma descobrirá o real valor e sentido da palavra amizade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] WHINDERSON NUNES - É DE MIM MESMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7JAL3UDKEQ6NC3FMC36OXCO2PMBYM6NI</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1Dk3lqCcOesF4Qr9ptHDB1zjIX1.jpg</thumbnail>
