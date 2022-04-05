@@ -187,7 +187,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]ESTÔMAGO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] ESTÔMAGO [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A06CF6645BD052ACA5F9A6AF8242C11C6710F81</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/18/P%C3%B4ster_Est%C3%B4mago.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -441,6 +441,27 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>São Paulo, 1937. Hugo (Marcelo Ribeiro) é um jovem que veio de Santa Catarina, sendo trazido por sua avó para devolvê-lo à sua mãe, Anna (Vera Fisher), que é amante de Osmar Passos (Tarcísio Meira), o político mais influente do estado. Ela habita uma luxuosa mansão com várias outras jovens, todas comandadas por Laura (Íris Bruzzi) e a serviço das manobras políticas de Osmar, que utiliza a casa para festas e orgias a fim de impressionar e agradar possíveis aliados políticos. A chegada do menino coincide com o dia de uma grande festa de despedida que será dada a Benício Mattos (Mauro Mendonça), o político mais influente e poderoso de outro estado. Tal fato deixa Laura bem contrariada, pois não quer que nada saia de . Assim Hugo é acomodado num quarto no sótão, mas se perturba no casarão, onde as circunstâncias fazem com que ele esteja sempre rodeado de jovens, que começam a provocá-lo e até a desejá-lo. Tamara (Xuxa)é a jovem que mais se interessa por Hugo.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] ZALU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>bQO301qqSt8</utube>
+<thumbnail>https://ia801805.us.archive.org/12/items/21742938-489659334720978-5831918866379725663-n/21742938_489659334720978_5831918866379725663_n.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Zalu ( Adriana Martins) é uma escrava negra que surge nas  terras de Cortês/PE  no ano de 1817 e passa a ser propriedade do Barão Castro de Vicência (Hamilton Torres). Nesse mesmo período o Barão acredita que foi traido pelo Bartolomeu Monteiro (Joel Viana), um ex-funcionário que vive com sua família na região, tal conflito acaba com uma morte. Anos mais tarde quando tudo parecia está em paz entre as duas famílias, Zalu se envolve com os Monteiros e a briga com os Vicências retorna, dessa vez com objetivo de vingança.  No meio desse Conflito Zalu sonha com a sua liberdade e contará com a ajuda de seu amigo escravo Bastião (Neto Nunes). Roteiro e  Direção: FERNANDO MARQUES</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PORQUE TEMOS ESPERANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>WgZ-uvc8_FQ</utube>
+<thumbnail>https://ia601807.us.archive.org/28/items/porque-temos-esperanca-2/Porque-temos-esperanca-2.jpeg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A jornada de Marli, uma mulher pernambucana que, inconformada em ignorar situações que parecem irremediáveis, percorre presídios de Recife tentando que pais detentos reconheçam seus filhos.
+Data de lançamento: 2014 (mundial)
+Diretora: Susanna Lira
+Roteiro: Susanna Lira, Muriel Alves</info>
+</item>
+
+
 
 
 
