@@ -32,6 +32,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JUNTOS E ENROLADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6eced443666182b111f8097a58db9e08c174267</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ciOCqvJiMQ3PkTEYLBv8q72QT9J.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após dois anos de união e muita economia financeira, Júlio e Daiana finalmente alcançaram o sonho de realizar a festa de casamento. Tudo parece estar indo bem, até que o noivo recebe uma mensagem em seu celular antes da cerimônia começar. Uma confusão generalizada acontece, mas a festa precisa continuar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TURMA DA MONICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:752e7f981e9ae707e1f9b643cbccd39e4100300e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1ksQfIiWmyu9x4FbNBW5aNclVqu.jpg</thumbnail>
