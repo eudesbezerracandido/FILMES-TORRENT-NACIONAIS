@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EDUARDO & MÔNICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CXRRVXZWERJW4VB3XLVSAD3SVW2ETA7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eaCb1Rx0gCpJ6Zl60tyJZeJUu2H.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>ão para o cinema da famosa canção "Eduardo e Mônica", composta por Renato Russo, sobre um casal que não tinha nada a ver um com o outro mas acabou se apaixonando perdidamente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLETÂNIA- OS TRAPALHÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35982634aa20959fe9382427735b51c196e9277b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7guAhJQYqzUluJUoU3LmIqKB8qu.jpg</thumbnail>
@@ -57,14 +65,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/1Dk3lqCcOesF4Qr9ptHDB1zjIX1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em seu novo show, o comediante fala com profundidade sobre temas como depressão e a pandemia, e convida as pessoas a entenderem o mundo através de seus olhos. No histórico palco do Teatro Amazonas, o comediante Whindersson Nunes faz imitações e analisa diferentes culturas com sua visão única.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] EDUARDO & MÔNICA HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:370DF6F2E8DC4F27E54FEC7D4F62A48640246C65</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eaCb1Rx0gCpJ6Zl60tyJZeJUu2H.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>ão para o cinema da famosa canção "Eduardo e Mônica", composta por Renato Russo, sobre um casal que não tinha nada a ver um com o outro mas acabou se apaixonando perdidamente.</info>
 </item>
 
 <item>
