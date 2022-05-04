@@ -28,6 +28,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TÔ RYCA 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40ea265e6db4e98e21f0dfbb9266ff9c12038e43$nome=TÔ RYCA 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4438BFFA76641591235AA5254FA2A11591D7E51C$nome=TÔ RYCA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/84GIm1NIcIxCrPuoLlsaQzZFVH3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Selminha está de volta! E agora é Ryca, esbanjadora, paga mais caro em tudo que quer e pode. O problema é que alegria de pobre sempre dura pouco. Aparece uma homônima que se coloca como a herdeira legitima. Os bens de Selminha são congelados, agora sua única fonte de renda é a que a justiça concede até se resolver o processo: um salário mínimo por mês, ou seja: 30 reais por dia. Mas Selminha já não sabe como viver na falência, no miserê, na desgraçada da pobreza. E pior: ela era a patrona da comunidade de Quintino, e com a sua pobreza toda a comunidade também acaba passando aperto. A Selminha guerreira, batalhadora, brasileira que não desiste nunca, ressurge para resolver não só a sua vida, mas de todos que ela ama.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EDUARDO & MÔNICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CXRRVXZWERJW4VB3XLVSAD3SVW2ETA7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eaCb1Rx0gCpJ6Zl60tyJZeJUu2H.jpg</thumbnail>
