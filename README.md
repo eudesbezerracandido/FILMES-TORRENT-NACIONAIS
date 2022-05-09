@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MEU NOME É BAGDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1b6df433020fd31f6753a7d0089d1f2076fb50f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fRAPoeG3di2WKBlwNipPruNrSZS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bagdá (Grace Orsato) é uma jovem skatista de 16 anos que passa os dias ao lado dos amigos, fazendo manobras na pista local, fumando maconha e jogando baralho. Aos poucos ela se aproxima de Vanessa (Nick Batista), estimulada a participar do grupo. Juntas, elas conhecem outras meninas skatistas e estreitam laços de amizade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TÔ RYCA 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40ea265e6db4e98e21f0dfbb9266ff9c12038e43$nome=TÔ RYCA 2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4438BFFA76641591235AA5254FA2A11591D7E51C$nome=TÔ RYCA</link>
