@@ -24,6 +24,14 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5FTQXIVOQGZYCTIPRATCGXNOIRQ3Y26$nome=EP 30</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IIOMJWWNBAVCSC37EFP3RERTNFKFA3OY$nome=EP 31</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TPBAMGVMGLEYWIGGWUVJYKPO377JRPLK$nome=EP 32</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q4TBSDEE3DJ3CFBJDTINKK33JZTFAGOH$nome=EP 33</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJXUVBVQV6FAWBP376LZQ2HDAHGTA564$nome=EP 34</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AYHI6T4MQSCFRGTJ62GBDTO6Q3M6DRTZ$nome=EP 35</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TD5VQ767DF2RM2HPRVCOLJ6I5QCSERLL$nome=EP 36</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3XZC6T5N3XUJCI26CWWWMTEQL4H23YKC$nome=EP 37</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XMDOIEIHRU476IFB2CQFXNI46JGEQ4DX$nome=EP 38</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UM7A4GX56M5QX334K2BNNPYCVKP5O5OV$nome=EP 39</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6VDSZ2SELTNVUOXXTD7FJY6OTXV3ZSRP$nome=EP 40</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aJEkzF3Tw5ipWlKLRPL6eqboSdV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma das novelas mais presentes no imaginário brasileiro, "Pantanal" é uma saga familiar sobre os Leôncio e os Marruá, que tem como cenário um dos mais ricos ecossistemas do mundo.Pantanal acompanha a história do jovem José Leôncio (Renato Goés e Marcos Palmeira), um peão de comitiva, que se muda com seu pai Joventino para o pantanal depois de comprar uma fazenda. Os dois decidem criar gado e passam a caçar bois selvagens nas redondezas, mas um dia Joventino sai para caçar sozinho e não retorna. Anos depois, José Leôncio se torna um fazendeiro rico e dono de grandes propriedades. Ele se casa com a bela e mimada Madeleine, mas sendo uma moça da cidade grande, ela não se adapta ao mundo rural e foge para o Rio de Janeiro com o filho pequeno dois dois, Joventino Neto (Jesuíta Barbosa). Já adulto, o menino retorna para o Pantanal na expectativa de conhecer o pai, mas devido as visões de mundo diferentes, os dois não conseguem se entender. Então, Joventino decide voltara para a cidade. Mas antes, ele acaba se apaixonando por Juma (Alanis Guillen), uma moça criada como selvagem pela mãe. Cheio de amor pela menina, Joventino decide levá-la consigo para o Rio de Janeiro.</info>
