@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RODRIGO SANTANNA- CHEGUEI! HUMORISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8315f636132b4f97df0d788e38083d0ffcc8df8d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t7ZkVFVoxDzbnAq3e3W9DWpy67Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O comediante vai contar sobre sua trajetória profissional e pessoal desde que morou no Morro dos Macacos, comunidade no Rio de Janeiro, até sua estreia na Netflix.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEU NOME É BAGDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1b6df433020fd31f6753a7d0089d1f2076fb50f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fRAPoeG3di2WKBlwNipPruNrSZS.jpg</thumbnail>
