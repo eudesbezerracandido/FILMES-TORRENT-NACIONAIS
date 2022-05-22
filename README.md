@@ -52,6 +52,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ME TIRA DA MIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5167e95817ca69b65e3de3569036cdaf0ab54efe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gxr04nWw0BuGVqdFNK8W4na4FYD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No longa, Roberta (Cleo) é uma funcionária dedicada da Polícia Civil do Rio de Janeiro, que se infiltra como agente secreta na Clínica Bianchini de Realinhamento Energético para investigar a misteriosa morte da atriz Antuérpia Fox (Vera Fischer). Durante a investigação, Roberta precisará lidar com os dramas da atriz Natasha Ferrero (Júlia Rabello), que acabou de ser “cancelada” na internet, e com o reencontro de seu grande amor do passado, o policial federal Rodrigo (Sérgio Guizé), que está investigando uma suspeita de tráfico internacional envolvendo a mesma clínica. Para isso, ela vai contar com o apoio de Isabela (Bruna Ciocca), sua terapeuta, com quem, aos poucos, forma uma dupla divertida e implacável.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEU NOME É BAGDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1b6df433020fd31f6753a7d0089d1f2076fb50f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fRAPoeG3di2WKBlwNipPruNrSZS.jpg</thumbnail>
