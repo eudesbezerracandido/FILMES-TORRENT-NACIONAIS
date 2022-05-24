@@ -52,6 +52,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VALE NIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edb51a5bffb0ee7bdf8558d24755ca2fbc0f9b6f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rREjHnosAMceEM6A4shFCNqicOJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cansada de lidar com as responsabilidades do primeiro filho, Daiana [Gabriela Dias] resolve pegar um "vale night" para passar a noite com as amigas, mas, para isso, precisa deixar o filho com o pai da criança. Vini [Pedro Ottoni], também entediado, decide levar o bebê para o baile funk, onde tudo vai bem até que ele perde o menino e parte em busca da criança por toda a comunidade, se colocando em situações inusitadas e divertidas para que Daiana não perceba nada.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MARINHEIRO DAS MONTANHAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8bcaac7dabaf90921d9390e7b1e4ea8d8095035</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yiugwRIPkUEbxKKknrkp35LlcCu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ainouz se baseou na história de seus pais, Iracema, uma brasileira, e Majid, um argelino, que se conheceram nos Estados Unidos. Eles se separaram em 1965, quando ele retornou à Argélia e ela, ao Brasil, grávida. Karim só conheceu o pai aos 20 anos. O filme é um inventário afetivo dessa relação. “O Marinheiro das Montanhas” integra a seleção Sessões Especiais da 74ª edição do Festival de Cannes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ME TIRA DA MIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5167e95817ca69b65e3de3569036cdaf0ab54efe</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gxr04nWw0BuGVqdFNK8W4na4FYD.jpg</thumbnail>
