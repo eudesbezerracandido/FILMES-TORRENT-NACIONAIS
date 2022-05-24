@@ -76,6 +76,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] IRMANDADE - 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59d432f22f0b9f2eb80149b15a617ca19d0b3de7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dLUhakcLW2485GDvFtyqGdYJJ0r.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma advogada honesta enfrenta um dilema moral depois que policiais a forçam a delatar seu irmão, que está preso e lidera uma facção criminosa em ascensão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ME TIRA DA MIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5167e95817ca69b65e3de3569036cdaf0ab54efe</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gxr04nWw0BuGVqdFNK8W4na4FYD.jpg</thumbnail>
