@@ -56,6 +56,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MATÉRIA NOTURNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4a9ff96aef44ec4eedd8aef7e4c668b52894a4c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jaiane trabalha como motorista por aplicativo em Vitória, Espírito Santo. Ela atravessa um período difícil, rejeitando companhias, até conhecer Aissa, um homem de Moçambique que trabalha embarcado, mas passa alguns dias pela cidade. Aos poucos, os dois solitários se aproximam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VALE NIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edb51a5bffb0ee7bdf8558d24755ca2fbc0f9b6f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rREjHnosAMceEM6A4shFCNqicOJ.jpg</thumbnail>
