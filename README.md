@@ -62,6 +62,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O VENDEDOR DE SOMHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36eecdd8d61799a69a6e5afb640abc0644df2062</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hV6l4wOhPDbEflqM1A2047D4F0E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Adaptação do best-seller homônimo do psicoterapeuta e escritor Augusto Cury. Júlio César, um psicólogo decepcionado com a vida em geral, tenta o suicídio, mas é impedido de cometer o ato final por intermédio de um mendigo, o "Mestre". Uma amizade peculiar surge entre os dois e, logo, a dupla passa a tentar salvar pessoas ao apresentar um novo caminho para se viver.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MATÉRIA NOTURNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4a9ff96aef44ec4eedd8aef7e4c668b52894a4c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg</thumbnail>
