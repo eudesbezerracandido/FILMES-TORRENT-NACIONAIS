@@ -66,6 +66,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] YURI MARÇAL - LEDO ENGANADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:630fe05b947c8e267c5b5c7247d2f6d493dd8004</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ss5LuWcxnHFBJ3hPXJgNY5lcf8o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O comediante Yuri Marçal não tem papas na língua: neste especial, ele fala sobre família, raça, religião e conta os detalhes de uma treta online.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O VENDEDOR DE SOMHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36eecdd8d61799a69a6e5afb640abc0644df2062</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hV6l4wOhPDbEflqM1A2047D4F0E.jpg</thumbnail>
