@@ -68,6 +68,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  DUOLOGIA - ALEMÃO NACIONAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79fd14482c1aaee2b6b172b6be3aa75e883955c9$nome=ALEMÃO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SWGQFU2S73REYXD2BAB2BO2XHY3C7XJQ$nome=ALEMÃO 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hlVjsMZ5nAlIMUDZztTmxOT73Sw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Alemão 2 acompanha a ação dos policiais civis Machado (Vladimir Brichta), Ciro (Gabriel Leone) e Freitas (Leandra Leal) para capturar o traficante Soldado (Digão Ribeiro), que dominou o morro após a falência das Unidades de Polícia Pacificadora, nove anos depois da operação militar realizada para livrar o Complexo do Alemão do controle do tráfico. Supervisionados pela delegada Amanda (Aline Borges) e seguindo as pistas de Bento (Danilo Ferreira), um informante da Polícia Militar, o grupo consegue efetuar a prisão, mas sofre uma emboscada armada pelo chefe da facção rival e acaba sendo perseguido pelos traficantes, perdendo-se nas tortuosas vielas da comunidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] YURI MARÇAL - LEDO ENGANADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:630fe05b947c8e267c5b5c7247d2f6d493dd8004</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ss5LuWcxnHFBJ3hPXJgNY5lcf8o.jpg</thumbnail>
