@@ -68,6 +68,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  BRUNA SURFISTINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A7ABFEAOYJCCCRYHBCJMHUR6VRM5RJE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rp3ogBoHqRPAIJ9AObqOb6eP2Ru.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pouco antes de fazer 18 anos, Bruna Surfistinha fugiu de casa para se tornar uma garota de programa. Passou 3 anos recebendo em sua cama homens (e mulheres) diferentes e satisfazendo fantasias muitas vezes inconfessáveis. Parte das experiências sexuais e pessoais ela dividiu com os leitores de seu blog. O diário se tornou conhecido e rendeu fama repentina à sua autora.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  DUOLOGIA - ALEMÃO NACIONAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79fd14482c1aaee2b6b172b6be3aa75e883955c9$nome=ALEMÃO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SWGQFU2S73REYXD2BAB2BO2XHY3C7XJQ$nome=ALEMÃO 2</link>
