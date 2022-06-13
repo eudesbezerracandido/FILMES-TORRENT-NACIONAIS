@@ -68,6 +68,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O DIA DA POSSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22bf728125d8019efece7ebaeb1d19101b0086e8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rv0EDsDm0eVt602xtmLbIIXiKjN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na partilha do cotidiano em confinamento, o carismático Brendo encena seus sonhos e planos para o futuro. Em uma dinâmica tão carinhosa quanto divertida, diretor e personagem imaginam juntos travessias até dias pós-pandêmicos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  BRUNA SURFISTINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2A7ABFEAOYJCCCRYHBCJMHUR6VRM5RJE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rp3ogBoHqRPAIJ9AObqOb6eP2Ru.jpg</thumbnail>
