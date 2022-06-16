@@ -71,6 +71,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MEDIDA PROVISÓRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3R4LGSIMYTK5PKZM4KRCAYMKXBAVWG4I</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oLfjccUqxsAG7pbCgs5rC6SEUWr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um futuro distópico, o governo brasileiro decreta uma medida provisória, em uma iniciativa de reparação pelo passado escravocrata, provocando uma reação no Congresso Nacional, que aprova uma medida que obriga os cidadãos negros a migrarem para a África na intenção de retornar a suas origens. Sua aprovação afeta diretamente a vida do casal formado pela médica Capitú (Taís Araújo) e pelo advogado Antonio (Alfred Enoch), bem como a de seu primo, o jornalista André (Seu Jorge), que mora com eles no mesmo apartamento. Nesse apartamento, os personagens debatem questões sociais e raciais, além de compartilharem anseios que envolvem a mudança de país. Vendo-se no centro do terror e separados por força das circunstâncias, o casal não sabe se conseguirá se reencontrar. O longa é uma adaptação de "Namíbia, Não!", peça de Aldri Anunciação que o diretor e ator Lázaro Ramos dirigiu para o teatro em 2011.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O DIA DA POSSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22bf728125d8019efece7ebaeb1d19101b0086e8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rv0EDsDm0eVt602xtmLbIIXiKjN.jpg</thumbnail>
