@@ -74,6 +74,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  O PAI DA RITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FKNKDRVMD6HGGWQRHOP4ZRI3TU4MCLDZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vSWzlq9jQJTLwG7xD8tLaT8cdE1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Roque e Pudim, compositores da velha guarda da Vai-Vai, partilham uma quitinete, décadas de amizade, o amor pela escola de samba e uma dúvida do passado: o que aconteceu com a passista Rita, paixão de ambos. O surgimento de Ritinha, filha da dançarina, e as sombras do compositor Chico Buarque, ameaçam desmoronar essa grande amizade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEDIDA PROVISÓRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3R4LGSIMYTK5PKZM4KRCAYMKXBAVWG4I</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oLfjccUqxsAG7pbCgs5rC6SEUWr.jpg</thumbnail>
