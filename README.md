@@ -77,6 +77,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PIRIPKURA - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:160c97e3914e621ef67fedf180a0568e2f1910ac</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pJTiKZf6fA2tf8i2wGfoC3WUOsE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois dos últimos membros do povo indígena Piripkura ainda vivem como nômades na Amazônia, cercados por fazendas que estão se expandindo de forma violenta. A área só pode manter seu status de protegida com provas de que eles ainda vivem lá. Por isso, o servidor Jair Candor vai em busca deles.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RODRIGO SANTANNA- CHEGUEI! HUMORISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8315f636132b4f97df0d788e38083d0ffcc8df8d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/t7ZkVFVoxDzbnAq3e3W9DWpy67Q.jpg</thumbnail>
