@@ -79,6 +79,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TAPETE VERMELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3854fa43c3682e5ce02b5d23cb4a79ad26b0262</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zh8PPoN82hV73GOfwZ6LD14Q1zp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quinzinho (Matheus Nachtergaele) mora em uma roça bem distante de qualquer cidade grande. Decidido a cumprir uma promessa, ele decide levar seu filho Neco (Vinícius Miranda), de 9 anos, para assistir a um filme estrelado por Mazzaropi em uma sala de cinema, assim como fez seu pai quando era garoto. Desejando cumprir a promessa a qualquer custo, Quinzinho, sua esposa Zulmira (Gorete Milagres), Neco e o burro Policarpo viajam pelas cidades em busca de um cinema que possa exibir o filme.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PCC - PODER SECRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33ac0c9226040e60a33d9e8cbfb71a86dd5250d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jatkeB0a9RvlGJhhaeeZCekEKd0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história da maior facção criminosa da América Latina contada por quem viveu ela de dentro. Na série documental PCC – Poder Secreto, acompanhamos a trajetória histórica da facção criminosa O Primeiro Comando da Capital ou, como é mais conhecida, PCC. Baseada no livro Irmãos: Uma História do PCC do sociólogo Gabriel Feltran, a produção conta com quatro episódios de 45 minutos dirigidos por Joel Zito Araújo. Em ordem cronológica, ao longo dos episódios conhecemos desde a origem da organização criminosa até sua situação atual. O assunto é explorado a partir de entrevistas e depoimentos de estudiosos, ex-agentes carcerários, ex membros da facção, familiares e autoridades. Por conta disso, a série traz o ponto de vista de pessoas que vivenciaram o PCC de perto, revelando a lógica interna do grupo, códigos de conduta e estrutura. Assim como no livro, a série nos mostra como o PCC se aproxima mais de uma espécie de maçonaria do crime do que de outras máfias conhecidas ao redor do mundo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] REFLEXÕES DE UM LIQUIDIFICADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cd6a9ac245cb3ee5e0f8cbc76a0f8be1aba11c5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wVIbeWPhyGJE5rGRbUWeLyNJ6JX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um filosófico liquidificador nos conta de sua amizade com Elvira, uma dona de casa que passa por um momento agitado em sua vida. Seu marido, Onofre, desapareceu há alguns dias, e ela decide ir à policia dar queixa do sumiço. Em meio a reflexões sobre a vida e as diferenças entre os objetos e os seres humanos, o liquidificador nos conta como tudo começou.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TALVEZ UMA HISTÓRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e03bb7f691e4117c40d0fb79f98a799256ca36a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/57iuK4nqiFX3vpZM5E8bJMPPKrT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando chega em casa, depois de mais um dia corriqueiro no trabalho, Virgílio (Mateus Solano) liga a secretária eletrônica e ouve um recado perturbador. É uma mensagem de Clara (Thaila Ayala), comunicando o término do relacionamento dos dois. Virgílio, contudo, não faz a menor ideia de quem é Clara. Perturbado devido ao seu jeito metódico e controlador, ele não se lembra de ter se relacionado com ninguém, mas todos ao seu redor pareciam saber do relacionamento dos dois, perguntando como ele está se sentindo com o término. Agora, ele precisa encontrar essa mulher misteriosa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PIRIPKURA - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:160c97e3914e621ef67fedf180a0568e2f1910ac</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pJTiKZf6fA2tf8i2wGfoC3WUOsE.jpg</thumbnail>
