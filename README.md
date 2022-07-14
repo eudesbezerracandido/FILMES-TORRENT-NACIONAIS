@@ -75,6 +75,11 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FTMNK2UBM4TLMKZNHWKQXQ3QQGFATJBY$nome=EP 85</link
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4CQZQXFYFUS2UFHNZRTV5JFTPD3E5TID$nome=EP 86</link
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ZQ6YU3YEH6WLI5D2LNJFRQIMJTDBPCV$nome=EP 87</link
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X473Q6VMYPTQ2AEAYX6Z6L63A3HFVW7N$nome=EP 88</link
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IM4C3ZN7GFQFQCKLNRI4RDEBBDWQBKL3$nome=EP 89</link
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NNJCVMK3WB3AN36DXTXYGIE7OTEY6XIN$nome=EP 90</link
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WI7HL435XC3NCOYCGRRPLBBQJM766OHB$nome=EP 91</link
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3U6FEMB7L4HGPWJOA4F3K5MVBTFIBVYV$nome=EP 92</link
 <thumbnail>https://www.themoviedb.org/t/p/original/aJEkzF3Tw5ipWlKLRPL6eqboSdV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma das novelas mais presentes no imaginário brasileiro, "Pantanal" é uma saga familiar sobre os Leôncio e os Marruá, que tem como cenário um dos mais ricos ecossistemas do mundo.Pantanal acompanha a história do jovem José Leôncio (Renato Goés e Marcos Palmeira), um peão de comitiva, que se muda com seu pai Joventino para o pantanal depois de comprar uma fazenda. Os dois decidem criar gado e passam a caçar bois selvagens nas redondezas, mas um dia Joventino sai para caçar sozinho e não retorna. Anos depois, José Leôncio se torna um fazendeiro rico e dono de grandes propriedades. Ele se casa com a bela e mimada Madeleine, mas sendo uma moça da cidade grande, ela não se adapta ao mundo rural e foge para o Rio de Janeiro com o filho pequeno dois dois, Joventino Neto (Jesuíta Barbosa). Já adulto, o menino retorna para o Pantanal na expectativa de conhecer o pai, mas devido as visões de mundo diferentes, os dois não conseguem se entender. Então, Joventino decide voltara para a cidade. Mas antes, ele acaba se apaixonando por Juma (Alanis Guillen), uma moça criada como selvagem pela mãe. Cheio de amor pela menina, Joventino decide levá-la consigo para o Rio de Janeiro.</info>
