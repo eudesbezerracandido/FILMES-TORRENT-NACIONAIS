@@ -106,6 +106,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TURMA DA MÔNICA- A SÉRIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abb3bb731af326884c1042d00b1a00ff976c5094</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cuULwtuGiYDnCvjZNg0Und7wfvo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Turminha mais querida dos quadrinhos e também do cinema chega à TV para viver novas aventuras, baseada na obra de Mauricio de Sousa e adaptação de Vitor e Lu Cafaggi.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PCC - PODER SECRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33ac0c9226040e60a33d9e8cbfb71a86dd5250d7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jatkeB0a9RvlGJhhaeeZCekEKd0.jpg</thumbnail>
