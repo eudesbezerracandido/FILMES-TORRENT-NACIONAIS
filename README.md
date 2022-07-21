@@ -106,6 +106,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TUDO IGUAL-SQN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b45469018949d5ddc67ea54ac7bf752566be66d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qkkEreanwpk4SEeejSToobXsqpC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem de 16 anos chamada Carol atravessa um momento de mudança, incluindo a relação com a mãe recém-casada pela segunda vez, o primeiro namoro e testes em relação às amizades antigas que ela tanto estima.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TURMA DA MÔNICA- A SÉRIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abb3bb731af326884c1042d00b1a00ff976c5094</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cuULwtuGiYDnCvjZNg0Und7wfvo.jpg</thumbnail>
