@@ -98,6 +98,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DESCASCADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19a5a62129f6dc584d36236346c99b547d10fcb7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wUQMdpFuyDuxjStpiO4t63XslWu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Breno é um sujeito metódico ao extremo. Seu mundo particular é perturbado quando a bela Verônica aparece para convidá-lo a visitar uma mercearia nova. Prontamente, o contato desperta em Breno uma sensação deliciosa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PCC - PODER SECRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33ac0c9226040e60a33d9e8cbfb71a86dd5250d7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jatkeB0a9RvlGJhhaeeZCekEKd0.jpg</thumbnail>
