@@ -340,7 +340,7 @@
 <item>
 <title>[COLOR silver][B] OS MELHORES DO MUNDO  2 EM 1 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c643260baa33a47eddb1bdd994b77dcc999a7eb6$nome=OS MELHORES DO MUNDO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:371e448e4f535216f130b110d0528b880e750d1c$nome= HERMANOTEU NA TERRA DE GODAH-O FILME</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:371e448e4f535216f130b110d0528b880e750d1c$nome=HERMANOTEU NA TERRA DE GODAH-O FILME</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nW62xAJYHcTMs1U7bgDNlZjDZMd.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Depois de ser eleito o novo papa, o Cardeal Gerônimo toma conhecimento formal de um grande segredo, mantido em total sigilo durante anos pela Igreja. Enquanto descobre a verdade a respeito dos apóstolos de Cristo, ele tem como fio condutor o destemido Hermanoteu, que ao longo de sua vida participou de momentos históricos e bíblicos cruciais, sempre se metendo nas piores enrascadas possíveis.</info>
