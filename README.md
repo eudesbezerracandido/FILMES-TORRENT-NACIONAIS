@@ -96,7 +96,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]  CINEMA NOVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  CINEMA NOVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:987019d476002beabfdfe8be4326dc892513dabf</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tKPqAg486tpjt0FlPoDRDzo85Tn.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
