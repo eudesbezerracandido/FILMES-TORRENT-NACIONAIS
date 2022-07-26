@@ -96,6 +96,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  CINEMA NOVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:987019d476002beabfdfe8be4326dc892513dabf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tKPqAg486tpjt0FlPoDRDzo85Tn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cinema Novo é filme-ensaio que investiga poeticamente o principal movimento cinematográfico latino-americano, através do pensamento dos seus principais autores: Nelson Pereira do Santos, Glauber Rocha, Leon Hirszman, Joaquim Pedro de Andrade, Ruy Guerra, Walter Lima Jr, Paulo César Saraceni, entre outros.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TAPETE VERMELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3854fa43c3682e5ce02b5d23cb4a79ad26b0262</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zh8PPoN82hV73GOfwZ6LD14Q1zp.jpg</thumbnail>
