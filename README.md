@@ -97,6 +97,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CORPO ELETRICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd5c5e973f4113d7daee0d80db8a32ea9064e989</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mOzQVKpNwSwLVLIzeIFogtJ8QCT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Elias é um jovem que migrou do nordeste do Brasil para São Paulo. Sua vida diária é dividida entre a fábrica onde trabalha e os encontros efêmeros com homens. Com a chegada de Fernando, um imigrante africano, Elias começa a olhar para a linha de produção com súbito interesse.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO -  CINEMA NOVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:987019d476002beabfdfe8be4326dc892513dabf</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tKPqAg486tpjt0FlPoDRDzo85Tn.jpg</thumbnail>
