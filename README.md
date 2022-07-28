@@ -97,6 +97,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PACTO BRUTAL: O ASSASSINATO DE DANIELA PEREZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b31b56b2b3bb77ba75cfe3d1ddc9ff9f22a8b1a2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7tE21vgcDLCxRd5LpuMC0tJPqYH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na série Pacto Brutal: O Assassinato de Daniella Perez Minissérie (2022) WEB-DL 720p/1080p Nacional, Em 1992, a atriz Daniela Perez foi brutalmente assassinada pelo colega de elenco Guilherme de Pádua e sua esposa Paula Thomaz. O caso chocou o país e resultou em uma alteração do código penal impulsionada por Gloria Perez, roteirista e mãe da vítima. 30 anos depois do ocorrido, a série documental Pacto Brutal Caso Daniela Perez irá explorar as investigações e materiais de arquivo para entender o que realmente aconteceu e apresentar a tragédia para uma geração que talvez não conheça a história. Além da participação de Gloria Perez, a produção traz depoimentos de vários rostos conhecidos como Cláudia Raia, Fábio Assunção, Raul Gazolla, Cristiana Oliveira, Maurício Mattar, Wolf Maya e Eri Johnson. Por outro lado, autoridades e advogados envolvidos destrincham os detalhes do caso.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BRASILIA 18% [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72c2a0d4da621881f0087d2da65709e3ec8f1e2f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6hxLXnqtbetWgOWSZ73ssuE8zm8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Olavo Bilac (Carlos Alberto Riccelli) é um renomado médico legista, que trabalha em Los Angeles. Bilac é convidado pelo Instituto Médico Legal de Brasília a dar seu parecer na perícia de identificação de uma ossada, que supostamente pertence à jovem economista Eugênia Câmara (Karine Carvalho), desaparecida há meses. A decisão de Bilac é cercada de expectativa, já que se for constatado que a ossada é de Eugênia isto significa que ela foi morta por seu namorado, o cineasta Augusto dos Anjos (Michel Melamed), que foi a última pessoa a vê-la antes de seu desaparecimento. Entretanto há interesses para que Augusto permaneça na cadeia, devido a acusações por ele feitas a políticos. É quando, em meio às pesquisas através de fotos, vídeos e de comentários contraditórios, Bilac termina se apaixonando por Eugênia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BARBA/CABELO E BIGIDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf4db6e2f6b2f794853c0cd88d3863adc66b070f</link>
+<thumbnail>https://ia601402.us.archive.org/19/items/nacional_202207/Barba-Cabelo-e-Bigode-Nacional.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Richardsson luta para salvar o salão de sua mãe, que está prestes a falir. Em busca de dinheiro para quitar as dívidas, ele embarca numa aventura e descobre seu dom inato de fazer cortes estilizados atraindo clientes de todo o subúrbio carioca.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CORPO ELETRICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd5c5e973f4113d7daee0d80db8a32ea9064e989</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mOzQVKpNwSwLVLIzeIFogtJ8QCT.jpg</thumbnail>
