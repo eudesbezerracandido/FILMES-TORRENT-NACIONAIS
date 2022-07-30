@@ -97,6 +97,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  SERTÂNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed1a8f83fae1620a36770541a97973d1409b1d21</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1yWWqUk4D8cRzSlLIbET9DjF501.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Antão é ferido, preso e morto quando bando de jagunços de Jesuíno invade cidade de Sertânia. O filme projeta a mente febril e delirante de Antão, que rememora os acontecimentos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PACTO BRUTAL: O ASSASSINATO DE DANIELA PEREZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b31b56b2b3bb77ba75cfe3d1ddc9ff9f22a8b1a2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7tE21vgcDLCxRd5LpuMC0tJPqYH.jpg</thumbnail>
