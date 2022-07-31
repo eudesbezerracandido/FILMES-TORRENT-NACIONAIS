@@ -100,6 +100,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HORA DE BRILHAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A7462V7ZMGVQ6BGKPWOCI7S3ER7JHL2H</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r2pBQidMHRu4xP6Jafd8PBDqy05.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ariana sonha em ser cantora e o concurso da escola pode ser sua oportunidade de brilhar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  SERTÂNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed1a8f83fae1620a36770541a97973d1409b1d21</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1yWWqUk4D8cRzSlLIbET9DjF501.jpg</thumbnail>
