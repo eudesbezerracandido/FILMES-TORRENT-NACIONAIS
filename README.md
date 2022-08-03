@@ -103,6 +103,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O HOMEM DO ANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:375d31460d4702c0f0488a916346c9d3d2893a30</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zdzIfr6sDzrIqgciyVLHom9qan6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma ingênua aposta entre amigos transforma Máiquel (Murilo Benício), um homem comum, em um assassino e herói de toda uma cidade. Deixando-se levar pelos acontecimentos, Máiquel torna-se respeitado por bandidos e pela polícia, sendo também amado por duas mulheres. Até que comete seu primeiro erro e é obrigado a tomar de volta o controle do seu destino.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HORA DE BRILHAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A7462V7ZMGVQ6BGKPWOCI7S3ER7JHL2H</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/r2pBQidMHRu4xP6Jafd8PBDqy05.jpg</thumbnail>
