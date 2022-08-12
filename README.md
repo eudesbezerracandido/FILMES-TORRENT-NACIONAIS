@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR silver][B] PANTANAL MINI SÉRIE DA GLOBO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] PANTANAL MINI SÉRIE DA GLOBO ATO 1 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YWF4ACRICMMPX3Q3A7YJYKLTAACEEFJO$nome=EP 1 AO 9</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EJDWX2DV3PEYTX3GKQDDTYPHZ7SGXZKO$nome=EP 10</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JVDVXA54UVVCM3UXKNLTT2XGNN3ZW7ZS$nome=EP 11</link>
@@ -50,6 +50,13 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TYL2EFZ2EV534FT57CBFXTOL32FH57NY$nome=EP 56</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A3GP7CKXF53YEJIAF2OSD4FOZCVBZDRO$nome=EP 57</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GYCE4ZSPIOSRSVJMA7P2BSB2RM2ZZI5X$nome=EP 58</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aJEkzF3Tw5ipWlKLRPL6eqboSdV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma das novelas mais presentes no imaginário brasileiro, "Pantanal" é uma saga familiar sobre os Leôncio e os Marruá, que tem como cenário um dos mais ricos ecossistemas do mundo.Pantanal acompanha a história do jovem José Leôncio (Renato Goés e Marcos Palmeira), um peão de comitiva, que se muda com seu pai Joventino para o pantanal depois de comprar uma fazenda. Os dois decidem criar gado e passam a caçar bois selvagens nas redondezas, mas um dia Joventino sai para caçar sozinho e não retorna. Anos depois, José Leôncio se torna um fazendeiro rico e dono de grandes propriedades. Ele se casa com a bela e mimada Madeleine, mas sendo uma moça da cidade grande, ela não se adapta ao mundo rural e foge para o Rio de Janeiro com o filho pequeno dois dois, Joventino Neto (Jesuíta Barbosa). Já adulto, o menino retorna para o Pantanal na expectativa de conhecer o pai, mas devido as visões de mundo diferentes, os dois não conseguem se entender. Então, Joventino decide voltara para a cidade. Mas antes, ele acaba se apaixonando por Juma (Alanis Guillen), uma moça criada como selvagem pela mãe. Cheio de amor pela menina, Joventino decide levá-la consigo para o Rio de Janeiro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PANTANAL MINI SÉRIE DA GLOBO ATO 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D3ADYNIAYM23XCYQOGQEMII5CVM3JE2I$nome=EP 59</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XJ5SRYFBJE7NGVF5KPNFWWLWZGO6OHC6$nome=EP 60</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EWR6OHRMPB6NZ23JJNZPQRUJLC6AO7GH$nome=EP 61</link>
