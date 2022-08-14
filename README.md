@@ -22,7 +22,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed1a8f83fae1620a36770541a97973d1409b1d21</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1yWWqUk4D8cRzSlLIbET9DjF501.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Antão é ferido, preso e morto quando bando de jagunços de Jesuíno invade cidade de Sertânia. O filme projeta a mente febril e delirante de Antão, que rememora os acontecimentos.</info>
+<info> Antão é ferido, preso e morto quando bando de jagunços de Jesuíno invade cidade de Sertânia. O filme projeta a mente febril e delirante de Antão, que rememora os acontecimentos.</info> 
 </item>
 
 <item>
