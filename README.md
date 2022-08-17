@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LUCAS NETO: A GINCANA NA NETOLAND [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7BIOQCZFWG3DC7YKFY7IQ3EDAGRSIF4X</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pX0diuVyLlOOs6YiqXrdpDVEQoX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Luccas, que finalmente conseguiu tirar férias, convida os amigos para uma super festa com o objetivo de fazer o carnaval mais divertido de todos os tempos. Mas algo surpreendente o aguarda. Entre danças e partidas de queimada, Luccas descobre uma passagem secreta misteriosa, que vai dar em um lugar escondido, chamado Netoland, lugar em que mora um super fã de Luccas Neto que fará de tudo para que ele fique para sempre na ilha.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O HOMEM DO ANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:375d31460d4702c0f0488a916346c9d3d2893a30</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zdzIfr6sDzrIqgciyVLHom9qan6.jpg</thumbnail>
