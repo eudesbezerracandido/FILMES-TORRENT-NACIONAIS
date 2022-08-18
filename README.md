@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AS VERDADES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf4f0562531a9a1882f3192469d1d9f3d815d6fd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l5N0BjQGUDTXIQixVBPnNZG618k.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As Verdades' conta a história de um crime que abala um pequeno município do litoral do Nordeste. É o primeiro caso do delegado Josué (Lázaro Ramos), recém-chegado à cidade. A tentativa de assassinato do candidato a prefeito Valmir (Zé Carlos Machado) é contada em três diferentes versões, de acordo com o ponto de vista dos personagens presentes no momento do crime. Cícero (Thomás Aquino), conhecido matador de aluguel da região, é o primeiro a relatar o que viu. Em seguida, é a versão de Francisca (Bianca Bin), noiva da vítima e prestes a se casar com ele. Na terceira versão, a história é contada por Valmir, a vítima. Em cada testemunho dado a polícia, um novo acusado é apontado. Afinal quem está falando a verdade?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LUCAS NETO: A GINCANA NA NETOLAND [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7BIOQCZFWG3DC7YKFY7IQ3EDAGRSIF4X</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pX0diuVyLlOOs6YiqXrdpDVEQoX.jpg</thumbnail>
