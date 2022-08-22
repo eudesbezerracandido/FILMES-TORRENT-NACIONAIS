@@ -1,6 +1,6 @@
 # FILMES-ANTIGOS
 
-<item>
+<items>
 <title>[COLOR silver][B]  ALICE NO MUNDO DA INTERNET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3d85697c24879573a59c71a6ade9911fbf45d54</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5TFbrqLvB6eCXSbe208SUVzAyBd.jpg</thumbnail>
@@ -749,7 +749,7 @@
 Data de lançamento: 2014 (mundial)
 Diretora: Susanna Lira
 Roteiro: Susanna Lira, Muriel Alves</info>
-</item>
+</items>
 
 
 
