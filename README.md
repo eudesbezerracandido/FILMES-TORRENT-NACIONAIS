@@ -1,7 +1,13 @@
 # FILMES-ANTIGOS
 
 
-
+<item>
+<title>[COLOR silver][B] VIZINHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d64dffd4e7bbb3e7ef8f7fe5f517bb6b33f7a00</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oT7388wlquvpGN3LPxVeD849QAI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Walter, um cara bem estressado, um dia entra em colapso. Por orientação médica, ele abandona a vida urbana e busca o sossego em uma cidade pequena, cercada de paz e natureza. Porém, os planos de relaxamento vão por água abaixo por causa de um vizinho muito animado, o Toninho da Vila, que ensaia com sua escola de samba no ouvido do Walter.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] RENSGA HITS 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
