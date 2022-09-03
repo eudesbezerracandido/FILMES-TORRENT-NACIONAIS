@@ -1,6 +1,24 @@
 # FILMES-ANTIGOS
 
 
+
+
+<item>
+<title>[COLOR silver][B] AS MAÊS DE CHICO XAVIER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee9ddac628503bc4f695dcb224fe4d4880906b3d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9znC61R03glG9UV0YqtRg97L9Mf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme, acompanharemos a história de três mulheres. Ruth (Via Negromonte) tem um filho adolescente que enfrenta problemas com drogas. Elisa (Vanessa Gerbelli) tenta suprir a ausência do marido dando total atenção ao filho, o pequeno Theo (Gabriel Pontes). Lara (Tainá Muller) é uma professora que enfrenta o dilema de uma gravidez não planejada. As mães têm suas vidas modificadas quando buscam conforto junto ao médium Chico Xavier.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CINEMA, ASPIRINA E URUBUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda72542ba8597ea1402c7575e255be960bc853c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8lCLU3vMgauPutirtcbHDC3pRUI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1942, no meio do sertão nordestino, dois homens vindos de mundos diferentes se encontram. Um deles é Johann (Peter Ketnath), alemão fugido da 2ª Guerra Mundial, que dirige um caminhão e vende aspirinas pelo interior do país. O outro é Ranulpho (João Miguel), um homem simples que sempre viveu no sertão e que, após ganhar uma carona de Johann, passa a trabalhar para ele como ajudante. Viajando de povoado em povoado, a dupla exibe filmes promocionais sobre o remédio "milagroso" para pessoas que jamais tiveram a oportunidade de ir ao cinema. Aos poucos surge entre eles uma forte amizade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VIZINHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d64dffd4e7bbb3e7ef8f7fe5f517bb6b33f7a00</link>
