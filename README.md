@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] STAND-UP RODRIGO MARQUES-O INIMIGO DO NIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43ded2aaeab78f99a64e36e550bb1e6faa80a277</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/miA6VI6fUANcvlQ4avvM7mCCldT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Neste especial de stand-up, Rodrigo Marques conta a história de uma viagem bem bizarra para Fernando de Noronha, fala sobre seus traumas e aborda outros temas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS MAÊS DE CHICO XAVIER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee9ddac628503bc4f695dcb224fe4d4880906b3d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9znC61R03glG9UV0YqtRg97L9Mf.jpg</thumbnail>
