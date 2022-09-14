@@ -1,7 +1,13 @@
 # FILMES-ANTIGOS
 
 
-
+<item>
+<title>[COLOR silver][B] TRÊS VERÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff1a46f6d4b6d3467e6d0ca6b9d6c9755fa6feed</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/peHMcLk1jS3wrCXvq9T5vH6oILe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A cada verão, entre Natal e Ano Novo, o casal Edgar e Marta recebe amigos e família na sua mansão espetacular à beira mar. Em 2015 tudo parece ir bem, mas em 2016 a mesma festa é cancelada. O que acontece com aqueles que gravitam em torno dos ricos e poderosos quando a vida deles desmorona? Através do olhar de uma empregada e de um velho patriarca, ambos vítimas do sonho neoliberal, vemos um retrato do Brasil contemporâneo, imediatamente antes de 2018.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] STAND-UP RODRIGO MARQUES-O INIMIGO DO NIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
