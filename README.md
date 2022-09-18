@@ -1,6 +1,15 @@
 # FILMES-ANTIGOS
 
 
+
+<item>
+<title>[COLOR silver][B] BONITINHA, MAIS ORDINÁRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Y4GWR3EDXNEISQ5EFJ6PW4MFNOPOT22O</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6iw6UIPFUBJlPj8BDWmdE8u1lNL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nova adaptação da famosa peça (e filmada três vezes) de Nelson Rodrigues sobre um industrial que oferece dinheiro a um de seus empregados para que ele se case com sua filha de 17 anos, vítima de uma curra. O rapaz, indeciso entre o enriquecimento fácil e a fidelidade aos seus sentimentos por uma jovem de sua classe social, a qual será envolvida pelo mundo inescrupuloso dos ricaços, desmascara a ingenuidade da menina oferecida.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TRÊS VERÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff1a46f6d4b6d3467e6d0ca6b9d6c9755fa6feed</link>
