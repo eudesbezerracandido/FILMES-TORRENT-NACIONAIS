@@ -1,6 +1,12 @@
 # FILMES-ANTIGOS
 
-
+<item>
+<title>[COLOR silver][B] ENTRE LOBOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P4ZRKSF6PFLTMXBYWVWQ4PNFGVM36BVC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kXnLyY8ggBsfPyvoSb54fCpvZbm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Entre Lobos é o maior documentário sobre segurança pública já feito no país. Uma investigação inédita sobre a criminalidade no Brasil. Os dados de segurança pública no Brasil são alarmantes. Os números de assassinatos anuais superam os registros de guerras como a Guerra do Vietnã. O brasileiro médio vive constantemente com medo e receio. Das 50 cidades mais perigosas do mundo, 10 estão no Brasil. Até a Venezuela perde para o Brasil neste ranking.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BONITINHA, MAIS ORDINÁRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
