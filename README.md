@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] 10 SEGUNDOS PARA VENCER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:720d92d76b750f053d84f73de157fe78554a4f38</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sS2rp62G1mVqZYqqRJ3aAoKoP4k.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A extraordinária trajetória de Éder Jofre (Daniel Oliveira) até se tornar um dos maiores boxeadores da história. Um homem divido entre a paixão pelo esporte e a vida em família. Pai (Osmar Prado) e filho na busca de um sonho, o de ser um verdadeiro campeão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VOCÊ NÃO É UM SOLDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82726534076347074fd55e0875064cf92334a911</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lVndyIFjeEf2kZVYuZ25DTtaWYX.jpg</thumbnail>
