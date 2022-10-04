@@ -1,5 +1,15 @@
 # FILMES-ANTIGOS
 
+
+
+<item>
+<title>[COLOR silver][B] VOCÊ NÃO É UM SOLDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82726534076347074fd55e0875064cf92334a911</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lVndyIFjeEf2kZVYuZ25DTtaWYX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Prestes a perder o pai, a diretora Maria Carolina Telles faz um retrato do premiado fotógrafo de guerra André Liohn. Um homem dividido entre seu trabalho nas zonas de combate e a tentativa incansável de ser um pai presente. Através das suas lentes, uma história de sobrevivência e luto, vida e morte.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ENTRE LOBOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P4ZRKSF6PFLTMXBYWVWQ4PNFGVM36BVC</link>
