@@ -2,6 +2,23 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] BRASIL 2002-OS BASTIDORES DO PENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec416ee17ca703ed7186ee624324e47bf092dde1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uvrRBAkKyVHfWOvqAvgmDasgAGU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O documentário mostra os bastidores da seleção brasileira que conquistou a Copa do Mundo de 2002, com imagens inéditas e entrevistas com os jogadores</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ANA.SEM TITULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:465511b65be1f03567189625e7e6d5adfd35e350</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gYRmAVivezOie0rH4ZpOoKwtZpw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Misto de documentário e ficção, o filme acompanha Stela, uma jovem atriz brasileira, que decide fazer um trabalho sobre as cartas trocadas entre artistas plásticas latino-americanas nos anos 1970 e 1980. Stela viaja para Cuba, México, Argentina e Chile à procura de trabalhos e depoimentos sobre a realidade que essas mulheres viveram durante as ditaduras que a maior parte desses países enfrentaram na época. Em meio à investigação, ela descobre a existência de uma jovem brasileira que fez parte desse mundo, mas desapareceu. Em 1968, Ana foi do sul do Brasil, de uma pequena cidade do interior, para a efervescente Buenos Aires, que vivia um momento de mudança nas artes e no comportamento. Obcecada, Stela resolve encontrar a personagem e descobrir o que aconteceu com ela.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 10 SEGUNDOS PARA VENCER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:720d92d76b750f053d84f73de157fe78554a4f38</link>
