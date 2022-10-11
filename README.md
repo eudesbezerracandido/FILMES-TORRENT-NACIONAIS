@@ -1,7 +1,29 @@
 # FILMES-ANTIGOS
 
 
+<item>
+<title>[COLOR silver][B] ESPOSA DE ALUGUEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19c90ee72a4124a0202967da8446d799c94eb91d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para cumprir o último desejo de sua mãe e evitar ser removido de seu testamento, um solteiro inflexível contrata uma atriz para interpretar sua noiva.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] AS VERDADES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:495b1492afb9fbbef25caaf4ecff0f8a9de33bf9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/of9YFiZW10xZ6sxeImLl1r7M9XQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As Verdades conta a história de um crime que abala um pequeno município do litoral do Nordeste. É o primeiro caso do delegado Josué (Lázaro Ramos), recém-chegado à cidade. A tentativa de assassinato do candidato a prefeito Valmir (Zé Carlos Machado) é contada em três diferentes versões, de acordo com o ponto de vista dos personagens presentes no momento do crime. Cícero (Thomás Aquino), conhecido matador de aluguel da região, é o primeiro a relatar o que viu. Em seguida, é a versão de Francisca (Bianca Bin), noiva da vítima e prestes a se casar com ele. Na terceira versão, a história é contada por Valmir, a vítima. Em cada testemunho dado a polícia, um novo acusado é apontado. Afinal quem está falando a verdade?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O LIVRO DOS PRAZERES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a033616378d5d4e5433e3c05873a28b921e1211</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ahQ7b9yJzSpxlPGLYhwZuYctvb8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Lóri (Simone Spoladore), uma professora que vive a monotonia de uma rotina de trabalho e relacionamentos furtivos até que conhece Ulisses (Javier Drolas), um professor de filosofia argentino, egocêntrico e provocador. É com ele que Lóri aprende a amar enfrentando sua própria solidão. Uma jornada de investigação íntima, de cara a cara com a angústia e a dor, numa trajetória só possível pelo encontro, troca e aprendizado entre os dois. Livre adaptação da obra “Uma Aprendizagem ou Livro dos Prazeres”, de Clarice Lispector</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BRASIL 2002-OS BASTIDORES DO PENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
