@@ -1,6 +1,15 @@
 # FILMES-ANTIGOS
 
 
+
+<item>
+<title>[COLOR silver][B] TRAVESSIA 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L26IWLQQVKJ5XDGUTAHKIYJS4CG4YKXI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6x3rElJju6TjcqvsXGtE2pmkE4v.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em Travessia, novela de Gloria Perez, acompanhamos Brisa (Lucy Alves), uma jovem maranhense que é vítima de um crime virtual. Quando montagem com o seu rosto são espalhadas pela internet, Brisa precisa descobrir o que está acontecendo com ela e quem pode ser o responsável. Para ajudá-la nesta investigação pessoal, Brisa se aproxima do hacker Otto (Rômulo Estrela). No entanto, a relação entre Brisa e Otto desperta o ciúmes de Ari (Chay Suede), namorado de Brisa, que fará de tudo para afastar os dois. Enquanto isso, a delegada Helô (Giovanna Antonelli) e o advogado Stenio (Alexandre Nero) de Salve Jorge, retornam para resolver novos casos e mostrar que a internet não está livre da lei.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ESPOSA DE ALUGUEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19c90ee72a4124a0202967da8446d799c94eb91d</link>
