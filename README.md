@@ -1,6 +1,13 @@
 # FILMES-ANTIGOS
 
 
+<item>
+<title>[COLOR silver][B] ASSALTO NA PAULISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45WILMOWODMG3YJRH3KUK5GGPGBH4CLG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g4j5D2lCue9gIDvYg89VdSBXq1y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Rubens é um poderoso bandido do interior paulista, que resolve dar um último grande golpe com a ajuda de sua filha adotiva Leônia, que fugiu da Bahia depois de ser estuprada por seu pai biológico. Mas nem tudo sai conforme o planejado durante o assalto aos cofres particulares de um banco na Avenida Paulista, coração de São Paulo. Rubens e Leônia só vão encontrar os seus verdadeiros destinos, ao desovar os frutos deste assalto no Paraguai, onde ambos entram em crise com os próprios valores existenciais. O filme é livremente inspirado no que foi um dos maiores assaltos a bancos privados no Brasil: o assalto à agência 0262 do Banco Itaú, na Avenida Paulista, centro financeiro do país.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TRAVESSIA 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
