@@ -1,6 +1,15 @@
 # FILMES-ANTIGOS
 
 
+
+<item>
+<title>[COLOR silver][B] O PALESTRANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I4TH7E2U4FTGJ2MQVH2RUBJV3CVN5TFU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pMuCfqBlaHaxTD2eIK1IyhQlXUx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Um homem que não encontra rumo na vida é confundido com um famoso palestrante motivacional. Ao tomar seu lugar, vai tentar achar uma razão própria para viver. Em O Palestrante, Guilherme (Fábio Porchat), um contador sem perspectivas que acaba de ser demitido e abandonado pela noiva, viaja para o Rio de Janeiro com o objetivo de resolver pendências da empresa que o demitiu. Sem encontrar um rumo na vida, ele é confundido com um famoso palestrante motivacional. Em um impulso de quem não tem nada a perder, assume o lugar do tal Marcelo, sem saber que se trata de um palestrante motivacional contratado para animar os funcionários da empresa de Denise (Dani Calabresa). Guilherme tem que colocar todos pra cima, mas talvez ele também precise desse novo Marcelo para mudar de vida, e ao tomar seu lugar, ele vai tentar achar uma razão própria para viver.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ASSALTO NA PAULISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45WILMOWODMG3YJRH3KUK5GGPGBH4CLG</link>
