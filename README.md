@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TERRA ENTRANGEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XB2N26JRNZ74RGQ23HF5RLVYSOYCZXQL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/seEPY9n5v0TJKoEN9ON0bPFw8Th.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Anos 90. Sem perspectiva de vida num Brasil tomado pelo caos em plena era Collor, Paco (Fernando Alves Pinto) decide viajar para Portugal após a morte da mãe, levando uma misteriosa encomenda. Em Lisboa, ele conhece Alex (Fernanda Torres), brasileira namorada de Miguel (Alexandre Borges), todos envolvidos num esquema de contrabando, que vai tornar suas vidas em um pesadelo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O PALESTRANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I4TH7E2U4FTGJ2MQVH2RUBJV3CVN5TFU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pMuCfqBlaHaxTD2eIK1IyhQlXUx.jpg</thumbnail>
