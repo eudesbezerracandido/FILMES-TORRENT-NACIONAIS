@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - O TEATRO DAS TESOURAS MINISSÉRIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBT5XB2IQSG3OJVYUUJU47LI55O2G4BX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/SIJ2LAae2JlFrfzH3BxkLmLS3H.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A série O Teatro das Tesouras aborda o teórico antagonismo político entre PT e PSDB, com alternância de poder durante seis eleições presidenciais consecutivas, a partir de 1994. O novo capítulo pretende descrever como se deu a ruptura da hegemonia de petistas e tucanos, com o aparecimento de Bolsonaro como uma figura inesperada no jogo eleitoral.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TERRA ENTRANGEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XB2N26JRNZ74RGQ23HF5RLVYSOYCZXQL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/seEPY9n5v0TJKoEN9ON0bPFw8Th.jpg</thumbnail>
