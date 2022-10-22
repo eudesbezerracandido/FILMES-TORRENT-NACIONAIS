@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O REI DA TV ( SILVIO SANTOS ) 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93f6a4bc71cace1a59a2b9a18418364e7cfe1fc2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oR5qFPIv6guDhFkLXzCaboZOmVj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>1988. Silvio Santos, o maior apresentador da televisão brasileira, é diagnosticado com um grave problema nas cordas vocais, o que pode deixá-lo sem voz. O medo de ser obrigado a abandonar os palcos traz à tona memórias de sua trajetória: desde a infância como camelô até a luta para obter a concessão do SBT, durante a ditadura militar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RONALDO, O FENÔMENO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:061f55b073341977ce260f16a0d808c3bb96d434</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vNlwArDpdG60HCtmjxMEpVu0WLO.jpg</thumbnail>
