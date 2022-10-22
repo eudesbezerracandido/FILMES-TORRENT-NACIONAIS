@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] INVASÃO BOLCHEVIQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DZQ7PRXOZCHMUKOEARX3MCSRUHEG2CUF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k445VilKhdBeKQyLprJsyPEpkoV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Revolução que mudou a história da humanidade e ainda pauta o presente é o tema do primeiro original BP exclusivo para assinantes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO -  1964: O BRASIL ENTRE ARMAS E LIVROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F80A4CAFA03A119EBBD6B39B6B7EA289B40E9FD7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6XQypVvKaterf0ZghXcIFXdrjQy.jpg</thumbnail>
