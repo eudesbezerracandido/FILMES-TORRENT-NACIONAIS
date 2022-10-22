@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] RONALDO, O FENÔMENO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:061f55b073341977ce260f16a0d808c3bb96d434</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vNlwArDpdG60HCtmjxMEpVu0WLO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O apelido O Fenômeno foi justificado. O futebol nunca tinha visto nada como Ronaldo Nazário. Lesões e frustrações ameaçaram sua carreira, mas não havia como parar o brasileiro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - O TEATRO DAS TESOURAS MINISSÉRIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBT5XB2IQSG3OJVYUUJU47LI55O2G4BX</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/SIJ2LAae2JlFrfzH3BxkLmLS3H.jpg</thumbnail>
