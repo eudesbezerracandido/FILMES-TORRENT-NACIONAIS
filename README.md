@@ -1,6 +1,13 @@
 # FILMES-ANTIGOS
 
 
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  1964: O BRASIL ENTRE ARMAS E LIVROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F80A4CAFA03A119EBBD6B39B6B7EA289B40E9FD7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6XQypVvKaterf0ZghXcIFXdrjQy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um analise crítica e detalhada de um complexo período da história Brasileira</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O REI DA TV ( SILVIO SANTOS ) 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
