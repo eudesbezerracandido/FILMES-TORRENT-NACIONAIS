@@ -1,6 +1,15 @@
 # FILMES-ANTIGOS
 
 
+
+<item>
+<title>[COLOR silver][B] A FACE OCULTA DO FEMINISMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O7ACY2TJUOOAFZ5SBUOARYFVGL7EDSLU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O feminismo é um movimento político popular. Suas concepções pautam a política, os debates públicos, as interações sociais. Mas por trás dessa feição conhecida, esconde-se outra, oculta até de seus apoiadores, e que agora será revelada.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] INVASÃO BOLCHEVIQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DZQ7PRXOZCHMUKOEARX3MCSRUHEG2CUF</link>
