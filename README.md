@@ -3,6 +3,22 @@
 
 
 <item>
+<title>[COLOR silver][B] O QUE RESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EWGGOBXBLDJH2RTIG2QNSWJEV4GTSEPC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fZKAzUMOrDVP6y588IggGg7QJXL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Atolados em um trabalho que detestam e esgotados por todas as imposições sociais que os cercam, Bárbara e Luiz, com cerca de seus 20 anos de idade, decidem partir juntos para uma afastada casa de um amigo, procurando refúgio emocional. Dentro do local, que vive cheio por causa de festas extravagantes, eles dois finalmente externalizam todos os seus anseios e desejos reprimidos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A VIAGEM DE PEDRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF4MFEPAXFLUWZJCOP6F3ZA32NMW3KV5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pW2wpWgb7DeKPbbrCsLG7bmju7B.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A bordo da nau inglesa Warspite, Dom Pedro I (Cauã Reymond), o primeiro Imperador do Brasil, retorna à Europa. Durante a travessia, reflete sobre sua vida no Brasil desde a infância, quando chegou com seus pais de Portugal, em 1808, até sua saída na calada da noite, fugindo de ser apedrejado pela população, em 1831.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FACE OCULTA DO FEMINISMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O7ACY2TJUOOAFZ5SBUOARYFVGL7EDSLU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg</thumbnail>
