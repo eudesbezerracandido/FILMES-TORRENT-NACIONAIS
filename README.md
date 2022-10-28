@@ -1,6 +1,13 @@
 # FILMES-ANTIGOS
 
 
+<item>
+<title>[COLOR silver][B] DEPOIS DO UNIVERSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4aa467f6c22d07293e8bea52dde66af0fd196271</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No longa, a talentosa pianista Nina (Giulia Be) precisa superar os desafios de lidar com o lúpus, uma doença autoimune que pode atacar qualquer parte do corpo - o rim, no caso dela. A jovem é surpreendida por uma forte conexão com Gabriel (Henry Zaga), um dos médicos da equipe que a atende, que irá ajudá-la a superar suas inseguranças na luta para tocar nos palcos junto a uma grande orquestra de São Paulo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O QUE RESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
