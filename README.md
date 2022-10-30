@@ -18,6 +18,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EZIGBX4Z35QTKCKQ7NAVSTGIG3567SOY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xyopAXjzBzB6oPHYMKRri3RmlUf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cortina de Fumaça é um filme que aborda a questão das queimadas na Amazônia, infanticídio indígena, atuação de ONG’s ambientalistas e o potencial agrícola brasileiro no cenário mundial.O desmatamento e as queimadas na floresta amazônica são pautas noticiadas constantemente, não só no Brasil, como internacionalmente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VIAGEM DE PEDRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF4MFEPAXFLUWZJCOP6F3ZA32NMW3KV5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pW2wpWgb7DeKPbbrCsLG7bmju7B.jpg</thumbnail>
