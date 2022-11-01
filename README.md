@@ -1,6 +1,15 @@
 # FILMES-ANTIGOS
 
 
+
+<item>
+<title>[COLOR silver][B]  FORO INTÍMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db94a7f2b82edcab81140659442033e6cab42592</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8htevandDGCHfzGCiMAjaJDZJuN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Inspirado em eventos reais, o filme acompanha 24 horas na vida de um juiz acuado por criminosos e refém do sistema legal. Mesmo não tendo cometido nenhum crime, um importante juiz criminal se vê preso. Isso porque, devido ao seu trabalho de risco, ele está sendo severamente ameaçado de morte. Para se proteger, ele precisará viver sob um forte esquema de segurança, e passar seus dias trancado no gabinete onde trabalha, no Fórum de Justiça, longe de todos os seus familiares.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DEPOIS DO UNIVERSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4aa467f6c22d07293e8bea52dde66af0fd196271</link>
