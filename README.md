@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A JAULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPUYNQG3N2ZQHUGJ4HRIIFCKMWRYOPD2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>É só mais um carro de luxo sendo roubado numa rua de São Paulo... ou não. Um ladrão (Chay Suede) entra com facilidade no SUV estacionado numa rua pacata, mas, ao tentar sair, descobre que está preso em uma armadilha, incomunicável, sem água ou comida. Recai somente sobre ele a vingança que um famoso médico (Alexandre Nero) planejou depois de sofrer inúmeros assaltos. Quem passa em volta não percebe o embate que se arma entre o sádico vingador e o ladrão prisioneiro dentro do carro. “A Jaula” é um thriller psicológico que não deixa o público desgrudar da tela. Quem é o vilão e quem é a vítima?</info>
+</item>
+
 <item>
 <title>[COLOR silver][B]  FORO INTÍMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db94a7f2b82edcab81140659442033e6cab42592</link>
