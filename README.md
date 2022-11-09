@@ -1,7 +1,13 @@
 # FILMES-ANTIGOS
 
 
-
+<item>
+<title>[COLOR silver][B] PREDESTINADO-ARIGÓ E O ESPIRITO Dr. FRITZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NVCMZGW43CYBCNHSN62NZ5H7NQI3TQIE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5SX9NREsXFb28HXNsTFtXFpZ3vk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>arece impossível, mas esta é uma história real. Através do espírito de Dr. Fritz, médico alemão falecido durante a Primeira Guerra Mundial, José Arigó (Danton Mello) se tornou uma esperança de cura para milhões de pessoas ao redor do mundo. Ele foi alvo de críticas por parte dos mais céticos, mas com o apoio de sua esposa (Juliana Paes), conseguiu salvar inúmeras vidas por intermédio da cirurgia espiritual. Predestinado a ajudar sem receber nada em troca, Arigó é hoje reconhecido como um dos maiores fenômenos mediúnicos da história.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A JAULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
