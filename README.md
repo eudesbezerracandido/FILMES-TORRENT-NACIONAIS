@@ -1,6 +1,16 @@
 # FILMES-ANTIGOS
 
 
+
+
+<item>
+<title>[COLOR silver][B] UMA PITADA DE SORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6MBNTT64FCBFC4GPB2X3AEKRJ5CUL56B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4SKHuc6D9ru9qJiAPr9xS04w2Um.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pérola vive com a mãe e um irmão menor adotivo. Seu grande sonho é ser reconhecida como Chef e enquanto seu desejo não se torna realidade, a moça trabalha como animadora de festas infantis e Sous Chef (o segundo no comando de uma cozinha) em um restaurante na Zona Sul do Rio. Tudo começa a mudar na vida de Pérola quando ela é aprovada num teste para ser auxiliar de um Chef renomado em um programa de televisão.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PREDESTINADO-ARIGÓ E O ESPIRITO Dr. FRITZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NVCMZGW43CYBCNHSN62NZ5H7NQI3TQIE</link>
