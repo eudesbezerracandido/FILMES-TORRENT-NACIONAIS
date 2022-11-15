@@ -1,7 +1,12 @@
 # FILMES-ANTIGOS
 
-
-
+<item>
+<title>[COLOR silver][B] 45 DO SEGUNDO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aab969fc5e8fdc2b70c4d2d5f9bc4676d09f0137</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xmUiGNvKTDwic273opiVednbQA8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>m meio a apuros financeiros e sem ter como manter seu restaurante, Pedro reencontra seus melhores amigos do colégio quando estes são convidados para recriar uma foto tirada décadas antes, no dia da inauguração do metrô de São Paulo. A nostalgia e os problemas pessoais tornam esse reencontro a oportunidade perfeita para Pedro dar a Ivan e a Mariano uma notícia: ele pretende se matar, mas não antes de ver seu time ser campeão.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] UMA PITADA DE SORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
