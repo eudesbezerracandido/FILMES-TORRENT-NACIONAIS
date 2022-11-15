@@ -1,5 +1,16 @@
 # FILMES-ANTIGOS
 
+
+
+
+<item>
+<title>[COLOR silver][B] AS AVENTURAS DE AGAMENON- O REPÓRTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8943ea3f0eff5103a9f15b1a82c5ae394d2ab740</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sA7eFsHAdlSwdqtbxuATV9QaOiL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>É um filme de ficção que conta as aventuras do Agamenon e a história de amor dele com a Isaura, mas, ao mesmo tempo, é como se fosse um documentário sobre ele já que uma equipe segue ele pelas ruas e revela coisas sobre sua vida dele, como a história do Dodge Dart enferrujado que ele estaciona na porta do prédio do jornal O Globo. A idéia central do filme é brincar com o fato de muita gente achar que ele, de fato, existe. A ideia foi torná-lo real.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 45 DO SEGUNDO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aab969fc5e8fdc2b70c4d2d5f9bc4676d09f0137</link>
