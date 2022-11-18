@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MATOU A FAMILIA E FOI AO CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5QRGOGOTNOC4JGSCDULVUNC2THO3664B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zW3BVM8Fh30BAcg5VXokaS8i0Nt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um rapaz de classe média baixa carioca mata os pais a navalhadas e vai ao cinema ver Perdidos de Amor. Márcia, uma jovem rica e insatisfeita, aproveita uma viagem do marido para ir à casa de Petrópolis, onde recebe a visita de uma velha amiga, Regina. Intercaladas com as cenas entre elas, que dançam, conversam sobre homens e se acariciam, aparecem pequenas histórias autônomas de assassinatos no interior de famílias pobres. Entre essas crônicas familiares, uma história destoa: a do preso político torturado até a morte. Teve uma refilmagem produzida em 1991.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CONSPIRAÇÃO FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21f6990db57f684339ad2cd764a0d45d90b79efe</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zpj3nNoc5xaUZTIdnuhwXwUcRag.jpg</thumbnail>
