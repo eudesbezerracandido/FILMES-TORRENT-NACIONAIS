@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CONSPIRAÇÃO FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21f6990db57f684339ad2cd764a0d45d90b79efe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zpj3nNoc5xaUZTIdnuhwXwUcRag.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Davi Martins, um Diretor comercial de uma instituição financeira, e Juliana Martins, uma Personal trainer, são um casal tentando se recuperar de uma crise. No trabalho, Davi acaba se envolvendo na investigação de um escândalo financeiro, ficando na mira de pessoas perigosas</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] 45 DO SEGUNDO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aab969fc5e8fdc2b70c4d2d5f9bc4676d09f0137</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xmUiGNvKTDwic273opiVednbQA8.jpg</thumbnail>
