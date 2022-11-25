@@ -1,7 +1,12 @@
 # FILMES-ANTIGOS
 
-
-
+<item>
+<title>[COLOR silver][B] A CAMISA MAIS PESADA DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KKZCR6RGVRZQWBIHD7T5I6XCOIM5UEZ2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iKKB3S6FUi1NYjfok1SOyYieSBs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Você acha que futebol é o "pão e circo" do povo brasileiro? Em ano de Copa, trouxemos o único documentário capaz de restaurar quatro coisas: seu orgulho de torcer pela seleção, sua esperança de que o 7x1 será superado, sua memória de por que o futebol é uma das maiores riquezas da cultura brasileira e sua vontade de vestir a camisa que enverga varal, ostentando mais estrelas do que qualquer outra.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AS AVENTURAS DE AGAMENON- O REPÓRTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
