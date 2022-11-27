@@ -1,5 +1,22 @@
 # FILMES-ANTIGOS
 
+
+<item>
+<title>[COLOR silver][B] ADRIANO-IMPERADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4ISIH3W2N66MBBKATHVHJYZX4JA6OX3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xUT8smWNpwDGF6IDcFGkker2gZy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Aos 40 anos, o ex-atacante relata alguns momentos importantes de sua vida, como a primeira convocação para a seleção brasileira, sua passagem pela Inter de Milão e a morte de seu pai, ocorrida em 2004.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PROCURA-SE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32ed33de2a52ce5c61a51fc4e606f4fa4a6f8446</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5S10EC500Gy0jSP2RJsiVNLamrP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois que uma menina desaparece de um parque de trailers, o pai da menina e a mãe fazem justiça com as próprias mãos. À medida que se aprofundam na busca, uma revelação trágica é descoberta, aprofundando o mistério do desaparecimento da menina.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A CAMISA MAIS PESADA DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KKZCR6RGVRZQWBIHD7T5I6XCOIM5UEZ2</link>
