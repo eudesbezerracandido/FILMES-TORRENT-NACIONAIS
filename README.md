@@ -1,6 +1,17 @@
 # FILMES-ANTIGOS
 
 
+
+
+<item>
+<title>[COLOR silver][B] EIKE-TUDO OU NADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J2WVSC4KB4DYXW7NUNBQJ7PCR5BX4HPG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dmE2NwVAt6AczscW0lapuuCTghg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 2006, quando a economia brasileira deslanchava por causa do pré-sal, Eike Batista decide criar a petroleira OGX e contrata os melhores homens da Petrobras para participar do leilão do pré-sal. Mas os planos megalomaníacos e uma série de decisões e alianças equivocadas fazem seu império ruir de forma tão espetacular quanto havia crescido. E o Brasil assiste, perplexo, à queda de Eike, que perde toda sua fortuna, poder e prestígio. Inspirado no livro da jornalista Malu Gaspar.
+</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ADRIANO-IMPERADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4ISIH3W2N66MBBKATHVHJYZX4JA6OX3</link>
