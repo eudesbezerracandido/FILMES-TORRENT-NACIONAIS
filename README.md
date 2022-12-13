@@ -1,7 +1,21 @@
 # FILMES-ANTIGOS
 
 
+<item>
+<title>[COLOR silver][B] O VELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1b35ef5fa3eb052bf86ea01a717bac13f1f516</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eNYpkVgr4qCCiPYU07zaJkZiw2a.jpg/thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Já perto dos 80 anos e uma década após se entregar à polícia e confessar ter matado 45 pessoas, o assassino em série conhecido como O Velho finalmente decide conceder sua primeira entrevista a um repórter de um jornal de bairro.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] PUREZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LLRFG4RATHLCN75N23GSHGUCW7PWZI7Y</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lJkzHr7j1snbHmUjsBtwX6akFA0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No interior do Estado do Maranhão mora Pureza, uma trabalhadora incansável e fiel, que mantém a si e ? sua família com a fabricação de tijolos de barro. Quando seu filho mais novo, Abel, aos 18 anos de idade, se despede de Dona Pureza para trabalhar, mal sabe ela que se passarão anos até que consiga reencontrá-lo. Atrás de trabalho, Abel é capturado pelo sistema de escravidão por endividamento. Desesperada por notícias de Abel, Pureza inicia uma longa jornada em busca de seu filho e, munida de um gravadorzinho de áudio e de uma pequena câmera fotográfica, passa a recolher evidências de trabalho forçado e de atrocidades cometidas por fazendeiros no Norte do Brasil.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] EIKE-TUDO OU NADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
