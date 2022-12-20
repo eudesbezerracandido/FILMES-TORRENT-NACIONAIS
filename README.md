@@ -1,6 +1,25 @@
 # FILMES-ANTIGOS
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] FILHO DA MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UCFG33VCPAPIEE2YG2YGLDRFGKKDPAEE</link>
+<thumbnail>O Prime Video vai lançar um filme inédito de Paulo Gustavo.</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Prime Video vai lançar um filme inédito de Paulo Gustavo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS SUBURBANOS- O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HPTPZWIVVINNDA4T5MYIKZ4GWCURD3VA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9hsq6C2BYFuvPI4Sy0dOxcmatVF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O suburbano Jeferson de Souza dos Santos faz de tudo para encontrar o sucesso como cantor em uma banda de pagode. Tendo que se dividir entre limpar a piscina do dono de uma gravadora, ter um caso tórrido com a esposa dele, se ver envolvido num golpe e ainda aceitar as novidades na família, Jefinho ainda arranja tempo para compor a canção que alavancará definitivamente sua carreira musical, o hit instantâneo “Xavasca Guerreira”.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O VELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1b35ef5fa3eb052bf86ea01a717bac13f1f516</link>
