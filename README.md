@@ -7,7 +7,7 @@
 <item>
 <title>[COLOR silver][B] FILHO DA MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UCFG33VCPAPIEE2YG2YGLDRFGKKDPAEE</link>
-<thumbnail>O Prime Video vai lançar um filme inédito de Paulo Gustavo.</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/z8ZbaGCahlXwri66rPHjgw54jo1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O Prime Video vai lançar um filme inédito de Paulo Gustavo.</info>
 </item>
@@ -23,7 +23,7 @@
 <item>
 <title>[COLOR silver][B] O VELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1b35ef5fa3eb052bf86ea01a717bac13f1f516</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eNYpkVgr4qCCiPYU07zaJkZiw2a.jpg/thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/eNYpkVgr4qCCiPYU07zaJkZiw2a.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Já perto dos 80 anos e uma década após se entregar à polícia e confessar ter matado 45 pessoas, o assassino em série conhecido como O Velho finalmente decide conceder sua primeira entrevista a um repórter de um jornal de bairro.</info>
 </item>
