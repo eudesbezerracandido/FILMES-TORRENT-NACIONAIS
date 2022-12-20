@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] VARIG - A CAIXA-PRETA DO BRASIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4K5OXWBEIOSAQQLA7U3SMIQ3PTNKROP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3HEADpGkr12fXev9TPsUDOQfttS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Conhecer a história da primeira multinacional brasileira é conhecer a história do Brasil e entender os rumos do nosso país. A trajetória da Varig é a bússola que aponta para um problema nacional. Tal como a companhia, por anos o Brasil tem sido tratado como a grande aposta do futuro.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FILHO DA MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
