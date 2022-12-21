@@ -3,6 +3,22 @@
 
 
 <item>
+<title>[COLOR silver][B] CÓDIGO DO ARMAGEDOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d78dc7ba88b95fe9a031cac5f9e990e9fbbce45</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mtE3VJ0MjmfUrBgI4vbEERkwFMi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma viagem ao exterior muda a história de três irmãos, que se deparam com um antigo tesouro do avô que os levará à maior aventura de suas vidas na descoberta da existência de uma antiga ordem mundial que pretende interferir nos acontecimentos do fim dos tempos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PORTA DOS FUNDOS-O ESPIRITO DO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f305f33514ed13f8b014921363287e7afb4d9234</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wG43XWas4oMgDhsB66jEMlBWfGY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em O Espírito do Natal, vamos acompanhar cinco amigos que odeiam o Natal decidem passar o fim de ano juntos em uma casa de campo isolada, mas quando acidentalmente um deles mata um invasor misterioso, vestido de vermelho, na noite do dia 24 de dezembro, coisas estranhas acontecem. Ataques de renas selvagens, carvão no lugar de presentes e anões assassinos, seria tudo uma coincidência ou eles mataram o maior símbolo do Natal?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VARIG - A CAIXA-PRETA DO BRASIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4K5OXWBEIOSAQQLA7U3SMIQ3PTNKROP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3HEADpGkr12fXev9TPsUDOQfttS.jpg</thumbnail>
