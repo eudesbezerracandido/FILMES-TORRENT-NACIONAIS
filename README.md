@@ -2,6 +2,17 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] BEM - VINDA A QUIXERAMOBIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKPRH2FO6R4YDZAUJPTBFQGEAWSSEKBS$nome=SERVIDOR 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:608b3529c80eab63d3bc679e5b64d2480f59ca21$nome=SERVIDOR 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7vdr6W7bs8LJMOGgwIJiAQUfG3Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Aimée é uma influencer milionária que tem todos os bens da família bloqueados, exceto uma fazenda no interior do Ceará que herdou de seu avô. Ela parte para o sertão na tentativa de vender a propriedade, mas com vergonha da nova realidade, inventa que irá tirar um "período sabático", por um ano. Assim, terá que lidar com sua nova vida e sustentar a mentira nas redes sociais.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CÓDIGO DO ARMAGEDOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d78dc7ba88b95fe9a031cac5f9e990e9fbbce45</link>
