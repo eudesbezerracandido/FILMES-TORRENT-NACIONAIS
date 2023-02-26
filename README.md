@@ -14,6 +14,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O CLUBE DOS ANJOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OSQUQUIGM3WKWNU235UD2ZGJPRTXWAOE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7u9mXB449pNrjp592Twpzs10cCW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Homens fracassados, promessas não cumpridas. Dez amigos veem sua confraria se desmanchar depois de tantos anos. Porém, a descoberta de um novo cozinheiro traz de volta a sede pela boa mesa. O problema é que, depois dos jantares, um dos membros do grupo morre. Qual o motivo das mortes? E, sobretudo, por que eles continuam frequentando os jantares? Adaptação do best-seller de Luís Fernando Veríssimo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CÓDIGO DO ARMAGEDOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d78dc7ba88b95fe9a031cac5f9e990e9fbbce45</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mtE3VJ0MjmfUrBgI4vbEERkwFMi.jpg</thumbnail>
